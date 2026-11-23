@@ -1,0 +1,15 @@
+primitive bases (m, n) with m <= 100: 2040
+closed by a curve of rank 0 (no perfect cuboid on the base): 1629; open: 411
+  E_ab has rank 0 and closes: 698; it is the only one that does: 192
+  E_ad has rank 0 and closes: 709; it is the only one that does: 198
+  E_bd has rank 0 and closes: 716; it is the only one that does: 214
+  E_2 has rank 0 and closes: 686; it is the only one that does: 178
+bases where a curve of rank 0 has a torsion point with X a nonzero square: 0
+bases with a rank that PARI does not determine (lower bound below upper bound): 457, of them open: 171
+open bases by the upper bounds of the four ranks: (1, 1, 1, 1): 125, (1, 1, 1, 2): 122, (1, 1, 1, 3): 7, (1, 1, 2, 2): 99, (1, 1, 2, 3): 11, (1, 1, 2, 4): 1, (1, 1, 3, 3): 1, (1, 2, 2, 2): 34, (1, 2, 2, 3): 9, (2, 2, 2, 3): 2
+  m <= 20: 83 of 86 closed
+  m <= 40: 281 of 331 closed
+  m <= 60: 610 of 737 closed
+  m <= 80: 1059 of 1314 closed
+  m <= 100: 1629 of 2040 closed
+the first open bases: (15,8) (17,16) (19,16) (22,1) (22,13) (23,22) (24,1) (24,17) (25,4) (25,14) (26,23) (26,25)

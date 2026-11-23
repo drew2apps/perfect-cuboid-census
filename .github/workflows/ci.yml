@@ -1,0 +1,25 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  census:
+    # Reruns the census for the bases with m <= 30 and compares it with the first lines of the committed file; checks the counts.
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: base census, m <= 30, and the summary
+        shell: bash
+        run: |
+          set -e -o pipefail
+          pip install -q -r requirements.txt
+          cd scripts
+          python3 -m py_compile base_census.py summary.py
+          python3 base_census.py 2 30 | grep '^{' | diff - <(head -n 186 base_census_100.jsonl)
+          python3 summary.py | diff - summary_100.txt
