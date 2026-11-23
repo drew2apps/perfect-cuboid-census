@@ -33,6 +33,17 @@ are all squares. With `X = t²`, such a `t` gives a rational point with `X` a no
 
 A closed base is closed for every multiple of the triple, since the conditions are homogeneous. The census is by base, not by size: it says nothing about a bound on the edges, and the published searches by size say nothing about a base.
 
+## The open bases: a sieve
+
+`scripts/open_sieve.py`, output in `scripts/open_sieve_100.jsonl`, counts in `scripts/open_sieve_summary.txt`. For an open base, take one of the four curves with rank exactly 1 and a generator `G` (PARI finds one for 369 of the 411). Every rational point is `kG + T` with `T` a torsion point. A perfect cuboid gives a point at which `X`, `X + a²`, `X + b²`, `X + d²` are all squares; modulo a prime this depends on `k` modulo the order of `G`, so each prime gives a table of the `k` it allows, and a few dozen primes leave nothing.
+
+- **For 369 open bases no `k` with `0 < k ≤ 1,000,000` survives.** A perfect cuboid on one of these bases would be a point `kG + T` with `|k| > 10⁶`; since the height of `kG` grows like `k²` times the height of `G` (at least 2.15), its third edge would have more than `10¹¹` digits (this conversion is a heuristic; the statement about `k` is what is computed).
+- 42 open bases have no curve of rank exactly 1 with a known point, and are not treated.
+- Control (`open_sieve.py --control 11,2 100000`): on the base 117 × 44 the Euler brick 44 × 117 × 240 is the point `2G` of `E_ab`. With the condition on `X + d²` switched off the sieve leaves every even `k` (the Euler bricks on that base), as it must; with it switched on, nothing.
+- This is a bound for each base, not a closure. It assumes that `G` generates the group modulo torsion (PARI's point, divided by 2, 3, 5, 7 where possible; a divisor of 11 or more is not excluded).
+
+So for the 2,040 bases with `m ≤ 100`: 1,629 have no perfect cuboid; 369 have none below an absurd size; 42 are untouched.
+
 ## What is known
 
 - Excluding cuboids with a given face ratio by an elliptic curve of rank 0 is in the literature, for instance in *Novel required properties of, and efficient algorithms to seek, perfect cuboids* (arXiv:2401.06784), and R. Peschmann's 2026 preprints treat explicit families of fibres with elliptic curves and torsion (arXiv:2604.28072, arXiv:2605.00573). We have not compared the list of closed bases here with theirs. If this census has any value of its own, it is as a reproducible table.
@@ -46,7 +57,8 @@ A closed base is closed for every multiple of the triple, since the conditions a
 
 ## Next
 
-- For an open base with a curve of rank exactly 1 and a known generator `G`, every rational point is `kG + T`, and the conditions can be tested modulo many primes for each `k`: a sieve that would show that a perfect cuboid on that base, if any, has `|k|` beyond a large bound (the same idea as `mw_sieve.py` in the magic-square repository).
+- The 42 open bases without a curve of rank exactly 1: a sieve on two generators, or a longer point search.
+- An upper bound for `k`, which would turn the sieve into a proof for a base; none is known to us for this setting.
 - A second rank program for the closed bases, and `L`-values or isogeny descents for the 171 undetermined ones.
 - Lean statements of the reduction.
 
@@ -57,6 +69,8 @@ pip install -r requirements.txt
 cd scripts
 (python3 base_census.py 2 75; python3 base_census.py 76 100) > base_census_100.jsonl      # the committed file was made in these two parts, about 15 minutes
 python3 summary.py
+python3 open_sieve.py base_census_100.jsonl 1000000 > open_sieve_100.jsonl      # about a minute
+python3 open_sieve.py --control 11,2 100000
 ```
 
-CI reruns the bases with `m ≤ 30` and compares them with the committed file.
+CI reruns the bases with `m ≤ 30`, the sieve on the first 40 open bases and the control, and compares them with the committed files.

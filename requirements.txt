@@ -1,1 +1,2 @@
 cypari2==2.2.9
+numpy
