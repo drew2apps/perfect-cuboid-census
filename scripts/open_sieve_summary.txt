@@ -3,4 +3,4 @@ a curve of rank exactly 1 with a point found, and no k with 0 < k <= 1000000 lef
 no such curve (not treated): 42
 bases with a survivor: 0
 curve used: E_2 2, E_ab 255, E_ad 68, E_bd 44
-canonical height of the generator (PARI): from 2.153 to 45.697; generators that had to be divided: 0; primes used: from 31 to 87
+canonical height of the generator (PARI): from 2.153 to 45.697; generators that had to be divided: 0

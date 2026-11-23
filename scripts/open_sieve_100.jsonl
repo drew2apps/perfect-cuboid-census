@@ -1,411 +1,411 @@
-{"base": [15, 8], "edges": [161, 240, 289], "curve": "E_ab", "height_of_G": 7.7725, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [17, 16], "edges": [33, 544, 545], "curve": "E_ab", "height_of_G": 3.538, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [19, 16], "edges": [105, 608, 617], "curve": "E_bd", "height_of_G": 13.0364, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [22, 1], "edges": [483, 44, 485], "curve": "E_ad", "height_of_G": 15.0448, "divided_by": [], "torsion": 8, "primes_used": 65, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [22, 13], "edges": [315, 572, 653], "curve": "E_ab", "height_of_G": 4.017, "divided_by": [], "torsion": 8, "primes_used": 63, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [23, 22], "edges": [45, 1012, 1013], "curve": "E_ab", "height_of_G": 4.3879, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [24, 1], "edges": [575, 48, 577], "curve": "E_ab", "height_of_G": 2.7258, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [24, 17], "edges": [287, 816, 865], "curve": "E_ad", "height_of_G": 8.4266, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [25, 4], "edges": [609, 200, 641], "curve": "E_ad", "height_of_G": 19.6269, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [25, 14], "edges": [429, 700, 821], "curve": "E_ab", "height_of_G": 4.4061, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [26, 23], "edges": [147, 1196, 1205], "curve": "E_ab", "height_of_G": 10.8478, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [26, 25], "edges": [51, 1300, 1301], "curve": "E_ab", "height_of_G": 16.0523, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [27, 2], "edges": [725, 108, 733], "curve": "E_bd", "height_of_G": 8.9397, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [27, 22], "edges": [245, 1188, 1213], "curve": "E_ab", "height_of_G": 3.8008, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [28, 5], "edges": [759, 280, 809], "curve": "E_ab", "height_of_G": 8.6912, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [28, 27], "edges": [55, 1512, 1513], "curve": "E_bd", "height_of_G": 8.1117, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [29, 18], "edges": [517, 1044, 1165], "curve": "E_ad", "height_of_G": 9.061, "divided_by": [], "torsion": 8, "primes_used": 60, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [29, 24], "edges": [265, 1392, 1417], "curve": "E_ab", "height_of_G": 5.2349, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [30, 11], "edges": [779, 660, 1021], "curve": "E_ab", "height_of_G": 7.0965, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [30, 29], "edges": [59, 1740, 1741], "curve": "E_ab", "height_of_G": 10.3825, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [31, 4], "edges": [945, 248, 977], "curve": "E_ab", "height_of_G": 7.7855, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [31, 10], "edges": [861, 620, 1061], "curve": "E_ad", "height_of_G": 12.5813, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [15, 8], "edges": [161, 240, 289], "curve": "E_ab", "height_of_G": 7.7725, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [17, 16], "edges": [33, 544, 545], "curve": "E_ab", "height_of_G": 3.538, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [19, 16], "edges": [105, 608, 617], "curve": "E_bd", "height_of_G": 13.0364, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [22, 1], "edges": [483, 44, 485], "curve": "E_ad", "height_of_G": 15.0448, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [22, 13], "edges": [315, 572, 653], "curve": "E_ab", "height_of_G": 4.017, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [23, 22], "edges": [45, 1012, 1013], "curve": "E_ab", "height_of_G": 4.3879, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [24, 1], "edges": [575, 48, 577], "curve": "E_ab", "height_of_G": 2.7258, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [24, 17], "edges": [287, 816, 865], "curve": "E_ad", "height_of_G": 8.4266, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [25, 4], "edges": [609, 200, 641], "curve": "E_ad", "height_of_G": 19.6269, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [25, 14], "edges": [429, 700, 821], "curve": "E_ab", "height_of_G": 4.4061, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [26, 23], "edges": [147, 1196, 1205], "curve": "E_ab", "height_of_G": 10.8478, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [26, 25], "edges": [51, 1300, 1301], "curve": "E_ab", "height_of_G": 16.0523, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [27, 2], "edges": [725, 108, 733], "curve": "E_bd", "height_of_G": 8.9397, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [27, 22], "edges": [245, 1188, 1213], "curve": "E_ab", "height_of_G": 3.8008, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [28, 5], "edges": [759, 280, 809], "curve": "E_ab", "height_of_G": 8.6912, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [28, 27], "edges": [55, 1512, 1513], "curve": "E_bd", "height_of_G": 8.1117, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [29, 18], "edges": [517, 1044, 1165], "curve": "E_ad", "height_of_G": 9.061, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [29, 24], "edges": [265, 1392, 1417], "curve": "E_ab", "height_of_G": 5.2349, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [30, 11], "edges": [779, 660, 1021], "curve": "E_ab", "height_of_G": 7.0965, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [30, 29], "edges": [59, 1740, 1741], "curve": "E_ab", "height_of_G": 10.3825, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [31, 4], "edges": [945, 248, 977], "curve": "E_ab", "height_of_G": 7.7855, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [31, 10], "edges": [861, 620, 1061], "curve": "E_ad", "height_of_G": 12.5813, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [31, 30], "edges": [61, 1860, 1861], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [32, 7], "edges": [975, 448, 1073], "curve": "E_ab", "height_of_G": 3.6548, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [32, 9], "edges": [943, 576, 1105], "curve": "E_ab", "height_of_G": 8.5686, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [32, 13], "edges": [855, 832, 1193], "curve": "E_ab", "height_of_G": 2.1528, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [32, 7], "edges": [975, 448, 1073], "curve": "E_ab", "height_of_G": 3.6548, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [32, 9], "edges": [943, 576, 1105], "curve": "E_ab", "height_of_G": 8.5686, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [32, 13], "edges": [855, 832, 1193], "curve": "E_ab", "height_of_G": 2.1528, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [32, 15], "edges": [799, 960, 1249], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [32, 25], "edges": [399, 1600, 1649], "curve": "E_ab", "height_of_G": 8.9884, "divided_by": [], "torsion": 8, "primes_used": 36, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [32, 27], "edges": [295, 1728, 1753], "curve": "E_ab", "height_of_G": 3.9997, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [33, 8], "edges": [1025, 528, 1153], "curve": "E_ab", "height_of_G": 4.9265, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [34, 11], "edges": [1035, 748, 1277], "curve": "E_ab", "height_of_G": 4.0787, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [34, 15], "edges": [931, 1020, 1381], "curve": "E_ab", "height_of_G": 8.1952, "divided_by": [], "torsion": 8, "primes_used": 71, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [34, 21], "edges": [715, 1428, 1597], "curve": "E_ab", "height_of_G": 4.5482, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [35, 2], "edges": [1221, 140, 1229], "curve": "E_ab", "height_of_G": 5.1574, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [35, 4], "edges": [1209, 280, 1241], "curve": "E_ab", "height_of_G": 19.1891, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [35, 22], "edges": [741, 1540, 1709], "curve": "E_ad", "height_of_G": 25.845, "divided_by": [], "torsion": 8, "primes_used": 62, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [36, 17], "edges": [1007, 1224, 1585], "curve": "E_ab", "height_of_G": 7.1734, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [37, 28], "edges": [585, 2072, 2153], "curve": "E_ad", "height_of_G": 6.0473, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [38, 23], "edges": [915, 1748, 1973], "curve": "E_ab", "height_of_G": 5.2431, "divided_by": [], "torsion": 8, "primes_used": 36, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [38, 25], "edges": [819, 1900, 2069], "curve": "E_ad", "height_of_G": 7.2681, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [38, 27], "edges": [715, 2052, 2173], "curve": "E_ad", "height_of_G": 14.5279, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [38, 29], "edges": [603, 2204, 2285], "curve": "E_ab", "height_of_G": 25.7005, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [38, 35], "edges": [219, 2660, 2669], "curve": "E_ad", "height_of_G": 8.1167, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [39, 20], "edges": [1121, 1560, 1921], "curve": "E_ab", "height_of_G": 14.4131, "divided_by": [], "torsion": 8, "primes_used": 35, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [39, 28], "edges": [737, 2184, 2305], "curve": "E_ab", "height_of_G": 11.417, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [40, 1], "edges": [1599, 80, 1601], "curve": "E_ab", "height_of_G": 5.8934, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [40, 11], "edges": [1479, 880, 1721], "curve": "E_ad", "height_of_G": 28.5524, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [40, 17], "edges": [1311, 1360, 1889], "curve": "E_ab", "height_of_G": 16.0895, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [40, 23], "edges": [1071, 1840, 2129], "curve": "E_ab", "height_of_G": 6.4721, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [40, 33], "edges": [511, 2640, 2689], "curve": "E_bd", "height_of_G": 5.6718, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [41, 18], "edges": [1357, 1476, 2005], "curve": "E_bd", "height_of_G": 33.068, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [41, 40], "edges": [81, 3280, 3281], "curve": "E_ab", "height_of_G": 16.7867, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [42, 13], "edges": [1595, 1092, 1933], "curve": "E_ab", "height_of_G": 8.9571, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [42, 23], "edges": [1235, 1932, 2293], "curve": "E_ab", "height_of_G": 14.6865, "divided_by": [], "torsion": 8, "primes_used": 63, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [42, 29], "edges": [923, 2436, 2605], "curve": "E_ad", "height_of_G": 7.588, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [42, 41], "edges": [83, 3444, 3445], "curve": "E_ad", "height_of_G": 5.8099, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [43, 8], "edges": [1785, 688, 1913], "curve": "E_ab", "height_of_G": 11.4039, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [43, 10], "edges": [1749, 860, 1949], "curve": "E_ab", "height_of_G": 15.2511, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [43, 36], "edges": [553, 3096, 3145], "curve": "E_ad", "height_of_G": 14.5533, "divided_by": [], "torsion": 8, "primes_used": 35, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [43, 42], "edges": [85, 3612, 3613], "curve": "E_ab", "height_of_G": 17.2135, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 17], "edges": [1647, 1496, 2225], "curve": "E_ab", "height_of_G": 19.485, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 27], "edges": [1207, 2376, 2665], "curve": "E_ad", "height_of_G": 10.505, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 29], "edges": [1095, 2552, 2777], "curve": "E_bd", "height_of_G": 12.1991, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 35], "edges": [711, 3080, 3161], "curve": "E_ad", "height_of_G": 11.9275, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 37], "edges": [567, 3256, 3305], "curve": "E_ab", "height_of_G": 7.105, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [44, 39], "edges": [415, 3432, 3457], "curve": "E_ab", "height_of_G": 18.098, "divided_by": [], "torsion": 8, "primes_used": 60, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [46, 43], "edges": [267, 3956, 3965], "curve": "E_ab", "height_of_G": 31.506, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [32, 25], "edges": [399, 1600, 1649], "curve": "E_ab", "height_of_G": 8.9884, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [32, 27], "edges": [295, 1728, 1753], "curve": "E_ab", "height_of_G": 3.9997, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [33, 8], "edges": [1025, 528, 1153], "curve": "E_ab", "height_of_G": 4.9265, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [34, 11], "edges": [1035, 748, 1277], "curve": "E_ab", "height_of_G": 4.0787, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [34, 15], "edges": [931, 1020, 1381], "curve": "E_ab", "height_of_G": 8.1952, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [34, 21], "edges": [715, 1428, 1597], "curve": "E_ab", "height_of_G": 4.5482, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [35, 2], "edges": [1221, 140, 1229], "curve": "E_ab", "height_of_G": 5.1574, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [35, 4], "edges": [1209, 280, 1241], "curve": "E_ab", "height_of_G": 19.1891, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [35, 22], "edges": [741, 1540, 1709], "curve": "E_ad", "height_of_G": 25.845, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [36, 17], "edges": [1007, 1224, 1585], "curve": "E_ab", "height_of_G": 7.1734, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [37, 28], "edges": [585, 2072, 2153], "curve": "E_ad", "height_of_G": 6.0473, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [38, 23], "edges": [915, 1748, 1973], "curve": "E_ab", "height_of_G": 5.2431, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [38, 25], "edges": [819, 1900, 2069], "curve": "E_ad", "height_of_G": 7.2681, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [38, 27], "edges": [715, 2052, 2173], "curve": "E_ad", "height_of_G": 14.5279, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [38, 29], "edges": [603, 2204, 2285], "curve": "E_ab", "height_of_G": 25.7005, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [38, 35], "edges": [219, 2660, 2669], "curve": "E_ad", "height_of_G": 8.1167, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [39, 20], "edges": [1121, 1560, 1921], "curve": "E_ab", "height_of_G": 14.4131, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [39, 28], "edges": [737, 2184, 2305], "curve": "E_ab", "height_of_G": 11.417, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [40, 1], "edges": [1599, 80, 1601], "curve": "E_ab", "height_of_G": 5.8934, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [40, 11], "edges": [1479, 880, 1721], "curve": "E_ad", "height_of_G": 28.5524, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [40, 17], "edges": [1311, 1360, 1889], "curve": "E_ab", "height_of_G": 16.0895, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [40, 23], "edges": [1071, 1840, 2129], "curve": "E_ab", "height_of_G": 6.4721, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [40, 33], "edges": [511, 2640, 2689], "curve": "E_bd", "height_of_G": 5.6718, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [41, 18], "edges": [1357, 1476, 2005], "curve": "E_bd", "height_of_G": 33.068, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [41, 40], "edges": [81, 3280, 3281], "curve": "E_ab", "height_of_G": 16.7867, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [42, 13], "edges": [1595, 1092, 1933], "curve": "E_ab", "height_of_G": 8.9571, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [42, 23], "edges": [1235, 1932, 2293], "curve": "E_ab", "height_of_G": 14.6865, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [42, 29], "edges": [923, 2436, 2605], "curve": "E_ad", "height_of_G": 7.588, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [42, 41], "edges": [83, 3444, 3445], "curve": "E_ad", "height_of_G": 5.8099, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [43, 8], "edges": [1785, 688, 1913], "curve": "E_ab", "height_of_G": 11.4039, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [43, 10], "edges": [1749, 860, 1949], "curve": "E_ab", "height_of_G": 15.2511, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [43, 36], "edges": [553, 3096, 3145], "curve": "E_ad", "height_of_G": 14.5533, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [43, 42], "edges": [85, 3612, 3613], "curve": "E_ab", "height_of_G": 17.2135, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 17], "edges": [1647, 1496, 2225], "curve": "E_ab", "height_of_G": 19.485, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 27], "edges": [1207, 2376, 2665], "curve": "E_ad", "height_of_G": 10.505, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 29], "edges": [1095, 2552, 2777], "curve": "E_bd", "height_of_G": 12.1991, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 35], "edges": [711, 3080, 3161], "curve": "E_ad", "height_of_G": 11.9275, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 37], "edges": [567, 3256, 3305], "curve": "E_ab", "height_of_G": 7.105, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [44, 39], "edges": [415, 3432, 3457], "curve": "E_ab", "height_of_G": 18.098, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [46, 43], "edges": [267, 3956, 3965], "curve": "E_ab", "height_of_G": 31.506, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [47, 4], "edges": [2193, 376, 2225], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [47, 10], "edges": [2109, 940, 2309], "curve": "E_ab", "height_of_G": 6.3077, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [47, 10], "edges": [2109, 940, 2309], "curve": "E_ab", "height_of_G": 6.3077, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [47, 18], "edges": [1885, 1692, 2533], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [47, 28], "edges": [1425, 2632, 2993], "curve": "E_ab", "height_of_G": 19.4469, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [47, 38], "edges": [765, 3572, 3653], "curve": "E_ad", "height_of_G": 24.4084, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [47, 46], "edges": [93, 4324, 4325], "curve": "E_ab", "height_of_G": 29.0548, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 17], "edges": [2015, 1632, 2593], "curve": "E_ad", "height_of_G": 36.1768, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 25], "edges": [1679, 2400, 2929], "curve": "E_ad", "height_of_G": 28.7084, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 29], "edges": [1463, 2784, 3145], "curve": "E_ab", "height_of_G": 5.8897, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 31], "edges": [1343, 2976, 3265], "curve": "E_ab", "height_of_G": 4.67, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 37], "edges": [935, 3552, 3673], "curve": "E_ab", "height_of_G": 11.8298, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 41], "edges": [623, 3936, 3985], "curve": "E_bd", "height_of_G": 17.779, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [48, 47], "edges": [95, 4512, 4513], "curve": "E_ab", "height_of_G": 10.3186, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [49, 30], "edges": [1501, 2940, 3301], "curve": "E_ab", "height_of_G": 31.8212, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [49, 40], "edges": [801, 3920, 4001], "curve": "E_ab", "height_of_G": 13.5753, "divided_by": [], "torsion": 8, "primes_used": 60, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [49, 48], "edges": [97, 4704, 4705], "curve": "E_ab", "height_of_G": 43.7624, "divided_by": [], "torsion": 8, "primes_used": 61, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [50, 29], "edges": [1659, 2900, 3341], "curve": "E_ab", "height_of_G": 10.6542, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [51, 16], "edges": [2345, 1632, 2857], "curve": "E_ab", "height_of_G": 5.5418, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [51, 26], "edges": [1925, 2652, 3277], "curve": "E_ab", "height_of_G": 4.3758, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [51, 28], "edges": [1817, 2856, 3385], "curve": "E_ad", "height_of_G": 19.2761, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [51, 32], "edges": [1577, 3264, 3625], "curve": "E_ab", "height_of_G": 4.7611, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [51, 40], "edges": [1001, 4080, 4201], "curve": "E_ab", "height_of_G": 9.496, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 5], "edges": [2679, 520, 2729], "curve": "E_ab", "height_of_G": 6.1137, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 9], "edges": [2623, 936, 2785], "curve": "E_ab", "height_of_G": 29.709, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 17], "edges": [2415, 1768, 2993], "curve": "E_ab", "height_of_G": 4.9844, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 21], "edges": [2263, 2184, 3145], "curve": "E_ab", "height_of_G": 7.5595, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 25], "edges": [2079, 2600, 3329], "curve": "E_bd", "height_of_G": 23.5192, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 35], "edges": [1479, 3640, 3929], "curve": "E_ab", "height_of_G": 9.6971, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 41], "edges": [1023, 4264, 4385], "curve": "E_ad", "height_of_G": 14.234, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 49], "edges": [303, 5096, 5105], "curve": "E_bd", "height_of_G": 32.9185, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [52, 51], "edges": [103, 5304, 5305], "curve": "E_ad", "height_of_G": 14.4009, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [53, 8], "edges": [2745, 848, 2873], "curve": "E_ab", "height_of_G": 5.7645, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [53, 12], "edges": [2665, 1272, 2953], "curve": "E_ab", "height_of_G": 15.1442, "divided_by": [], "torsion": 8, "primes_used": 63, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [53, 30], "edges": [1909, 3180, 3709], "curve": "E_ab", "height_of_G": 24.8466, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [53, 36], "edges": [1513, 3816, 4105], "curve": "E_ab", "height_of_G": 13.697, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [53, 52], "edges": [105, 5512, 5513], "curve": "E_ab", "height_of_G": 43.4059, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [55, 8], "edges": [2961, 880, 3089], "curve": "E_bd", "height_of_G": 15.5885, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [55, 24], "edges": [2449, 2640, 3601], "curve": "E_ab", "height_of_G": 12.6993, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [55, 28], "edges": [2241, 3080, 3809], "curve": "E_ab", "height_of_G": 16.5594, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [55, 52], "edges": [321, 5720, 5729], "curve": "E_ab", "height_of_G": 8.3731, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [56, 9], "edges": [3055, 1008, 3217], "curve": "E_ab", "height_of_G": 5.0315, "divided_by": [], "torsion": 8, "primes_used": 37, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [56, 11], "edges": [3015, 1232, 3257], "curve": "E_2", "height_of_G": 33.282, "divided_by": [], "torsion": 16, "primes_used": 62, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [56, 41], "edges": [1455, 4592, 4817], "curve": "E_bd", "height_of_G": 19.9813, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [56, 43], "edges": [1287, 4816, 4985], "curve": "E_ab", "height_of_G": 3.5129, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [56, 51], "edges": [535, 5712, 5737], "curve": "E_ab", "height_of_G": 22.7217, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [57, 14], "edges": [3053, 1596, 3445], "curve": "E_ab", "height_of_G": 25.6004, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [47, 28], "edges": [1425, 2632, 2993], "curve": "E_ab", "height_of_G": 19.4469, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [47, 38], "edges": [765, 3572, 3653], "curve": "E_ad", "height_of_G": 24.4084, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [47, 46], "edges": [93, 4324, 4325], "curve": "E_ab", "height_of_G": 29.0548, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 17], "edges": [2015, 1632, 2593], "curve": "E_ad", "height_of_G": 36.1768, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 25], "edges": [1679, 2400, 2929], "curve": "E_ad", "height_of_G": 28.7084, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 29], "edges": [1463, 2784, 3145], "curve": "E_ab", "height_of_G": 5.8897, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 31], "edges": [1343, 2976, 3265], "curve": "E_ab", "height_of_G": 4.67, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 37], "edges": [935, 3552, 3673], "curve": "E_ab", "height_of_G": 11.8298, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 41], "edges": [623, 3936, 3985], "curve": "E_bd", "height_of_G": 17.779, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [48, 47], "edges": [95, 4512, 4513], "curve": "E_ab", "height_of_G": 10.3186, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [49, 30], "edges": [1501, 2940, 3301], "curve": "E_ab", "height_of_G": 31.8212, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [49, 40], "edges": [801, 3920, 4001], "curve": "E_ab", "height_of_G": 13.5753, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [49, 48], "edges": [97, 4704, 4705], "curve": "E_ab", "height_of_G": 43.7624, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [50, 29], "edges": [1659, 2900, 3341], "curve": "E_ab", "height_of_G": 10.6542, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [51, 16], "edges": [2345, 1632, 2857], "curve": "E_ab", "height_of_G": 5.5418, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [51, 26], "edges": [1925, 2652, 3277], "curve": "E_ab", "height_of_G": 4.3758, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [51, 28], "edges": [1817, 2856, 3385], "curve": "E_ad", "height_of_G": 19.2761, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [51, 32], "edges": [1577, 3264, 3625], "curve": "E_ab", "height_of_G": 4.7611, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [51, 40], "edges": [1001, 4080, 4201], "curve": "E_ab", "height_of_G": 9.496, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 5], "edges": [2679, 520, 2729], "curve": "E_ab", "height_of_G": 6.1137, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 9], "edges": [2623, 936, 2785], "curve": "E_ab", "height_of_G": 29.709, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 17], "edges": [2415, 1768, 2993], "curve": "E_ab", "height_of_G": 4.9844, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 21], "edges": [2263, 2184, 3145], "curve": "E_ab", "height_of_G": 7.5595, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 25], "edges": [2079, 2600, 3329], "curve": "E_bd", "height_of_G": 23.5192, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 35], "edges": [1479, 3640, 3929], "curve": "E_ab", "height_of_G": 9.6971, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 41], "edges": [1023, 4264, 4385], "curve": "E_ad", "height_of_G": 14.234, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 49], "edges": [303, 5096, 5105], "curve": "E_bd", "height_of_G": 32.9185, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [52, 51], "edges": [103, 5304, 5305], "curve": "E_ad", "height_of_G": 14.4009, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [53, 8], "edges": [2745, 848, 2873], "curve": "E_ab", "height_of_G": 5.7645, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [53, 12], "edges": [2665, 1272, 2953], "curve": "E_ab", "height_of_G": 15.1442, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [53, 30], "edges": [1909, 3180, 3709], "curve": "E_ab", "height_of_G": 24.8466, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [53, 36], "edges": [1513, 3816, 4105], "curve": "E_ab", "height_of_G": 13.697, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [53, 52], "edges": [105, 5512, 5513], "curve": "E_ab", "height_of_G": 43.4059, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [55, 8], "edges": [2961, 880, 3089], "curve": "E_bd", "height_of_G": 15.5885, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [55, 24], "edges": [2449, 2640, 3601], "curve": "E_ab", "height_of_G": 12.6993, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [55, 28], "edges": [2241, 3080, 3809], "curve": "E_ab", "height_of_G": 16.5594, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [55, 52], "edges": [321, 5720, 5729], "curve": "E_ab", "height_of_G": 8.3731, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [56, 9], "edges": [3055, 1008, 3217], "curve": "E_ab", "height_of_G": 5.0315, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [56, 11], "edges": [3015, 1232, 3257], "curve": "E_2", "height_of_G": 33.282, "divided_by": [], "torsion": 16, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [56, 41], "edges": [1455, 4592, 4817], "curve": "E_bd", "height_of_G": 19.9813, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [56, 43], "edges": [1287, 4816, 4985], "curve": "E_ab", "height_of_G": 3.5129, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [56, 51], "edges": [535, 5712, 5737], "curve": "E_ab", "height_of_G": 22.7217, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [57, 14], "edges": [3053, 1596, 3445], "curve": "E_ab", "height_of_G": 25.6004, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [57, 56], "edges": [113, 6384, 6385], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [58, 7], "edges": [3315, 812, 3413], "curve": "E_ab", "height_of_G": 8.6526, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [58, 9], "edges": [3283, 1044, 3445], "curve": "E_ab", "height_of_G": 16.6337, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [58, 11], "edges": [3243, 1276, 3485], "curve": "E_ab", "height_of_G": 10.3773, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [58, 37], "edges": [1995, 4292, 4733], "curve": "E_bd", "height_of_G": 12.9257, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [58, 41], "edges": [1683, 4756, 5045], "curve": "E_ab", "height_of_G": 5.7927, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 22], "edges": [2997, 2596, 3965], "curve": "E_ab", "height_of_G": 17.3443, "divided_by": [], "torsion": 8, "primes_used": 38, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 24], "edges": [2905, 2832, 4057], "curve": "E_ab", "height_of_G": 35.5459, "divided_by": [], "torsion": 8, "primes_used": 33, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 28], "edges": [2697, 3304, 4265], "curve": "E_ab", "height_of_G": 24.6994, "divided_by": [], "torsion": 8, "primes_used": 36, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 36], "edges": [2185, 4248, 4777], "curve": "E_ab", "height_of_G": 34.194, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 44], "edges": [1545, 5192, 5417], "curve": "E_ab", "height_of_G": 9.8929, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [59, 56], "edges": [345, 6608, 6617], "curve": "E_ab", "height_of_G": 14.6842, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [60, 1], "edges": [3599, 120, 3601], "curve": "E_bd", "height_of_G": 15.6427, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [60, 49], "edges": [1199, 5880, 6001], "curve": "E_ab", "height_of_G": 23.1943, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 12], "edges": [3577, 1464, 3865], "curve": "E_ab", "height_of_G": 19.6582, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 14], "edges": [3525, 1708, 3917], "curve": "E_ab", "height_of_G": 11.5667, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 32], "edges": [2697, 3904, 4745], "curve": "E_ad", "height_of_G": 31.5767, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 38], "edges": [2277, 4636, 5165], "curve": "E_bd", "height_of_G": 21.8661, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 40], "edges": [2121, 4880, 5321], "curve": "E_ad", "height_of_G": 4.1587, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 54], "edges": [805, 6588, 6637], "curve": "E_ab", "height_of_G": 26.8444, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 56], "edges": [585, 6832, 6857], "curve": "E_ad", "height_of_G": 10.2357, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 58], "edges": [357, 7076, 7085], "curve": "E_ab", "height_of_G": 44.5707, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [61, 60], "edges": [121, 7320, 7321], "curve": "E_ab", "height_of_G": 8.5582, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [58, 7], "edges": [3315, 812, 3413], "curve": "E_ab", "height_of_G": 8.6526, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [58, 9], "edges": [3283, 1044, 3445], "curve": "E_ab", "height_of_G": 16.6337, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [58, 11], "edges": [3243, 1276, 3485], "curve": "E_ab", "height_of_G": 10.3773, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [58, 37], "edges": [1995, 4292, 4733], "curve": "E_bd", "height_of_G": 12.9257, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [58, 41], "edges": [1683, 4756, 5045], "curve": "E_ab", "height_of_G": 5.7927, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 22], "edges": [2997, 2596, 3965], "curve": "E_ab", "height_of_G": 17.3443, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 24], "edges": [2905, 2832, 4057], "curve": "E_ab", "height_of_G": 35.5459, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 28], "edges": [2697, 3304, 4265], "curve": "E_ab", "height_of_G": 24.6994, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 36], "edges": [2185, 4248, 4777], "curve": "E_ab", "height_of_G": 34.194, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 44], "edges": [1545, 5192, 5417], "curve": "E_ab", "height_of_G": 9.8929, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [59, 56], "edges": [345, 6608, 6617], "curve": "E_ab", "height_of_G": 14.6842, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [60, 1], "edges": [3599, 120, 3601], "curve": "E_bd", "height_of_G": 15.6427, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [60, 49], "edges": [1199, 5880, 6001], "curve": "E_ab", "height_of_G": 23.1943, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 12], "edges": [3577, 1464, 3865], "curve": "E_ab", "height_of_G": 19.6582, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 14], "edges": [3525, 1708, 3917], "curve": "E_ab", "height_of_G": 11.5667, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 32], "edges": [2697, 3904, 4745], "curve": "E_ad", "height_of_G": 31.5767, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 38], "edges": [2277, 4636, 5165], "curve": "E_bd", "height_of_G": 21.8661, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 40], "edges": [2121, 4880, 5321], "curve": "E_ad", "height_of_G": 4.1587, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 54], "edges": [805, 6588, 6637], "curve": "E_ab", "height_of_G": 26.8444, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 56], "edges": [585, 6832, 6857], "curve": "E_ad", "height_of_G": 10.2357, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 58], "edges": [357, 7076, 7085], "curve": "E_ab", "height_of_G": 44.5707, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [61, 60], "edges": [121, 7320, 7321], "curve": "E_ab", "height_of_G": 8.5582, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [62, 1], "edges": [3843, 124, 3845], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [62, 13], "edges": [3675, 1612, 4013], "curve": "E_ab", "height_of_G": 14.4799, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [62, 17], "edges": [3555, 2108, 4133], "curve": "E_ab", "height_of_G": 10.6318, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [62, 53], "edges": [1035, 6572, 6653], "curve": "E_ab", "height_of_G": 6.1769, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [62, 55], "edges": [819, 6820, 6869], "curve": "E_ab", "height_of_G": 4.9864, "divided_by": [], "torsion": 8, "primes_used": 62, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [62, 61], "edges": [123, 7564, 7565], "curve": "E_ab", "height_of_G": 9.9533, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 8], "edges": [3905, 1008, 4033], "curve": "E_ab", "height_of_G": 4.0541, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 10], "edges": [3869, 1260, 4069], "curve": "E_ab", "height_of_G": 12.1463, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 20], "edges": [3569, 2520, 4369], "curve": "E_ab", "height_of_G": 21.4888, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 22], "edges": [3485, 2772, 4453], "curve": "E_ad", "height_of_G": 7.8072, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 38], "edges": [2525, 4788, 5413], "curve": "E_bd", "height_of_G": 5.4878, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 40], "edges": [2369, 5040, 5569], "curve": "E_ab", "height_of_G": 11.7137, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [63, 52], "edges": [1265, 6552, 6673], "curve": "E_ad", "height_of_G": 10.393, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 7], "edges": [4047, 896, 4145], "curve": "E_ab", "height_of_G": 14.8432, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 17], "edges": [3807, 2176, 4385], "curve": "E_ab", "height_of_G": 3.0953, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 27], "edges": [3367, 3456, 4825], "curve": "E_ab", "height_of_G": 10.0967, "divided_by": [], "torsion": 8, "primes_used": 33, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 33], "edges": [3007, 4224, 5185], "curve": "E_ad", "height_of_G": 19.2516, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 39], "edges": [2575, 4992, 5617], "curve": "E_ab", "height_of_G": 4.6088, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 49], "edges": [1695, 6272, 6497], "curve": "E_ab", "height_of_G": 11.0426, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [64, 55], "edges": [1071, 7040, 7121], "curve": "E_ab", "height_of_G": 4.117, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 6], "edges": [4189, 780, 4261], "curve": "E_ab", "height_of_G": 7.9655, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 12], "edges": [4081, 1560, 4369], "curve": "E_ad", "height_of_G": 8.6012, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 24], "edges": [3649, 3120, 4801], "curve": "E_ab", "height_of_G": 5.2731, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 28], "edges": [3441, 3640, 5009], "curve": "E_bd", "height_of_G": 9.2914, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 32], "edges": [3201, 4160, 5249], "curve": "E_ad", "height_of_G": 19.0695, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 34], "edges": [3069, 4420, 5381], "curve": "E_ab", "height_of_G": 5.5155, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 38], "edges": [2781, 4940, 5669], "curve": "E_ab", "height_of_G": 11.3986, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 42], "edges": [2461, 5460, 5989], "curve": "E_bd", "height_of_G": 7.183, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 48], "edges": [1921, 6240, 6529], "curve": "E_ab", "height_of_G": 6.7157, "divided_by": [], "torsion": 8, "primes_used": 38, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 54], "edges": [1309, 7020, 7141], "curve": "E_ad", "height_of_G": 3.3655, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 58], "edges": [861, 7540, 7589], "curve": "E_ab", "height_of_G": 16.9017, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [65, 62], "edges": [381, 8060, 8069], "curve": "E_ab", "height_of_G": 13.9594, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [66, 29], "edges": [3515, 3828, 5197], "curve": "E_ab", "height_of_G": 10.4157, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [67, 12], "edges": [4345, 1608, 4633], "curve": "E_ab", "height_of_G": 12.391, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [62, 13], "edges": [3675, 1612, 4013], "curve": "E_ab", "height_of_G": 14.4799, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [62, 17], "edges": [3555, 2108, 4133], "curve": "E_ab", "height_of_G": 10.6318, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [62, 53], "edges": [1035, 6572, 6653], "curve": "E_ab", "height_of_G": 6.1769, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [62, 55], "edges": [819, 6820, 6869], "curve": "E_ab", "height_of_G": 4.9864, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [62, 61], "edges": [123, 7564, 7565], "curve": "E_ab", "height_of_G": 9.9533, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 8], "edges": [3905, 1008, 4033], "curve": "E_ab", "height_of_G": 4.0541, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 10], "edges": [3869, 1260, 4069], "curve": "E_ab", "height_of_G": 12.1463, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 20], "edges": [3569, 2520, 4369], "curve": "E_ab", "height_of_G": 21.4888, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 22], "edges": [3485, 2772, 4453], "curve": "E_ad", "height_of_G": 7.8072, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 38], "edges": [2525, 4788, 5413], "curve": "E_bd", "height_of_G": 5.4878, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 40], "edges": [2369, 5040, 5569], "curve": "E_ab", "height_of_G": 11.7137, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [63, 52], "edges": [1265, 6552, 6673], "curve": "E_ad", "height_of_G": 10.393, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 7], "edges": [4047, 896, 4145], "curve": "E_ab", "height_of_G": 14.8432, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 17], "edges": [3807, 2176, 4385], "curve": "E_ab", "height_of_G": 3.0953, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 27], "edges": [3367, 3456, 4825], "curve": "E_ab", "height_of_G": 10.0967, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 33], "edges": [3007, 4224, 5185], "curve": "E_ad", "height_of_G": 19.2516, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 39], "edges": [2575, 4992, 5617], "curve": "E_ab", "height_of_G": 4.6088, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 49], "edges": [1695, 6272, 6497], "curve": "E_ab", "height_of_G": 11.0426, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [64, 55], "edges": [1071, 7040, 7121], "curve": "E_ab", "height_of_G": 4.117, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 6], "edges": [4189, 780, 4261], "curve": "E_ab", "height_of_G": 7.9655, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 12], "edges": [4081, 1560, 4369], "curve": "E_ad", "height_of_G": 8.6012, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 24], "edges": [3649, 3120, 4801], "curve": "E_ab", "height_of_G": 5.2731, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 28], "edges": [3441, 3640, 5009], "curve": "E_bd", "height_of_G": 9.2914, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 32], "edges": [3201, 4160, 5249], "curve": "E_ad", "height_of_G": 19.0695, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 34], "edges": [3069, 4420, 5381], "curve": "E_ab", "height_of_G": 5.5155, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 38], "edges": [2781, 4940, 5669], "curve": "E_ab", "height_of_G": 11.3986, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 42], "edges": [2461, 5460, 5989], "curve": "E_bd", "height_of_G": 7.183, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 48], "edges": [1921, 6240, 6529], "curve": "E_ab", "height_of_G": 6.7157, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 54], "edges": [1309, 7020, 7141], "curve": "E_ad", "height_of_G": 3.3655, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 58], "edges": [861, 7540, 7589], "curve": "E_ab", "height_of_G": 16.9017, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [65, 62], "edges": [381, 8060, 8069], "curve": "E_ab", "height_of_G": 13.9594, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [66, 29], "edges": [3515, 3828, 5197], "curve": "E_ab", "height_of_G": 10.4157, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 12], "edges": [4345, 1608, 4633], "curve": "E_ab", "height_of_G": 12.391, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [67, 20], "edges": [4089, 2680, 4889], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [67, 40], "edges": [2889, 5360, 6089], "curve": "E_ab", "height_of_G": 13.5725, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [67, 44], "edges": [2553, 5896, 6425], "curve": "E_bd", "height_of_G": 30.4229, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [67, 48], "edges": [2185, 6432, 6793], "curve": "E_2", "height_of_G": 22.5565, "divided_by": [], "torsion": 16, "primes_used": 80, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [67, 56], "edges": [1353, 7504, 7625], "curve": "E_ab", "height_of_G": 12.1848, "divided_by": [], "torsion": 8, "primes_used": 32, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [67, 66], "edges": [133, 8844, 8845], "curve": "E_ab", "height_of_G": 4.4293, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [68, 7], "edges": [4575, 952, 4673], "curve": "E_ab", "height_of_G": 8.2504, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [68, 23], "edges": [4095, 3128, 5153], "curve": "E_ab", "height_of_G": 8.9017, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [68, 43], "edges": [2775, 5848, 6473], "curve": "E_ab", "height_of_G": 40.0842, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [68, 61], "edges": [903, 8296, 8345], "curve": "E_ad", "height_of_G": 9.6497, "divided_by": [], "torsion": 8, "primes_used": 69, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [68, 67], "edges": [135, 9112, 9113], "curve": "E_ab", "height_of_G": 32.0738, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [69, 8], "edges": [4697, 1104, 4825], "curve": "E_ab", "height_of_G": 9.2269, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [69, 16], "edges": [4505, 2208, 5017], "curve": "E_ab", "height_of_G": 3.8696, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [69, 22], "edges": [4277, 3036, 5245], "curve": "E_ad", "height_of_G": 18.7583, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [69, 38], "edges": [3317, 5244, 6205], "curve": "E_ab", "height_of_G": 18.7865, "divided_by": [], "torsion": 8, "primes_used": 33, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [70, 19], "edges": [4539, 2660, 5261], "curve": "E_bd", "height_of_G": 10.7273, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [70, 31], "edges": [3939, 4340, 5861], "curve": "E_bd", "height_of_G": 19.7567, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [70, 43], "edges": [3051, 6020, 6749], "curve": "E_ad", "height_of_G": 13.3784, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [71, 8], "edges": [4977, 1136, 5105], "curve": "E_ab", "height_of_G": 8.8037, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [71, 12], "edges": [4897, 1704, 5185], "curve": "E_ab", "height_of_G": 15.8876, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 40], "edges": [2889, 5360, 6089], "curve": "E_ab", "height_of_G": 13.5725, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 44], "edges": [2553, 5896, 6425], "curve": "E_bd", "height_of_G": 30.4229, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 48], "edges": [2185, 6432, 6793], "curve": "E_2", "height_of_G": 22.5565, "divided_by": [], "torsion": 16, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 56], "edges": [1353, 7504, 7625], "curve": "E_ab", "height_of_G": 12.1848, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [67, 66], "edges": [133, 8844, 8845], "curve": "E_ab", "height_of_G": 4.4293, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [68, 7], "edges": [4575, 952, 4673], "curve": "E_ab", "height_of_G": 8.2504, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [68, 23], "edges": [4095, 3128, 5153], "curve": "E_ab", "height_of_G": 8.9017, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [68, 43], "edges": [2775, 5848, 6473], "curve": "E_ab", "height_of_G": 40.0842, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [68, 61], "edges": [903, 8296, 8345], "curve": "E_ad", "height_of_G": 9.6497, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [68, 67], "edges": [135, 9112, 9113], "curve": "E_ab", "height_of_G": 32.0738, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [69, 8], "edges": [4697, 1104, 4825], "curve": "E_ab", "height_of_G": 9.2269, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [69, 16], "edges": [4505, 2208, 5017], "curve": "E_ab", "height_of_G": 3.8696, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [69, 22], "edges": [4277, 3036, 5245], "curve": "E_ad", "height_of_G": 18.7583, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [69, 38], "edges": [3317, 5244, 6205], "curve": "E_ab", "height_of_G": 18.7865, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [70, 19], "edges": [4539, 2660, 5261], "curve": "E_bd", "height_of_G": 10.7273, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [70, 31], "edges": [3939, 4340, 5861], "curve": "E_bd", "height_of_G": 19.7567, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [70, 43], "edges": [3051, 6020, 6749], "curve": "E_ad", "height_of_G": 13.3784, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [71, 8], "edges": [4977, 1136, 5105], "curve": "E_ab", "height_of_G": 8.8037, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [71, 12], "edges": [4897, 1704, 5185], "curve": "E_ab", "height_of_G": 15.8876, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [71, 44], "edges": [3105, 6248, 6977], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [71, 46], "edges": [2925, 6532, 7157], "curve": "E_ab", "height_of_G": 17.0332, "divided_by": [], "torsion": 8, "primes_used": 68, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [71, 60], "edges": [1441, 8520, 8641], "curve": "E_ab", "height_of_G": 33.5326, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [71, 64], "edges": [945, 9088, 9137], "curve": "E_ab", "height_of_G": 6.7854, "divided_by": [], "torsion": 8, "primes_used": 67, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 7], "edges": [5135, 1008, 5233], "curve": "E_ab", "height_of_G": 6.3996, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 23], "edges": [4655, 3312, 5713], "curve": "E_ab", "height_of_G": 3.8104, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 25], "edges": [4559, 3600, 5809], "curve": "E_bd", "height_of_G": 9.7715, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 29], "edges": [4343, 4176, 6025], "curve": "E_ab", "height_of_G": 11.1171, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 37], "edges": [3815, 5328, 6553], "curve": "E_ad", "height_of_G": 19.429, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 41], "edges": [3503, 5904, 6865], "curve": "E_ab", "height_of_G": 6.8692, "divided_by": [], "torsion": 8, "primes_used": 60, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 43], "edges": [3335, 6192, 7033], "curve": "E_ab", "height_of_G": 26.7148, "divided_by": [], "torsion": 8, "primes_used": 62, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [72, 61], "edges": [1463, 8784, 8905], "curve": "E_ad", "height_of_G": 9.0036, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 4], "edges": [5313, 584, 5345], "curve": "E_ab", "height_of_G": 16.5132, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 14], "edges": [5133, 2044, 5525], "curve": "E_ad", "height_of_G": 16.1723, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 16], "edges": [5073, 2336, 5585], "curve": "E_ab", "height_of_G": 8.6698, "divided_by": [], "torsion": 8, "primes_used": 61, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 24], "edges": [4753, 3504, 5905], "curve": "E_ad", "height_of_G": 41.6376, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 32], "edges": [4305, 4672, 6353], "curve": "E_ab", "height_of_G": 8.289, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 38], "edges": [3885, 5548, 6773], "curve": "E_ad", "height_of_G": 13.2141, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 40], "edges": [3729, 5840, 6929], "curve": "E_ad", "height_of_G": 7.5225, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 48], "edges": [3025, 7008, 7633], "curve": "E_ab", "height_of_G": 8.7586, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 50], "edges": [2829, 7300, 7829], "curve": "E_ab", "height_of_G": 16.7976, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 52], "edges": [2625, 7592, 8033], "curve": "E_ab", "height_of_G": 19.5973, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 60], "edges": [1729, 8760, 8929], "curve": "E_ab", "height_of_G": 8.4598, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [73, 64], "edges": [1233, 9344, 9425], "curve": "E_ab", "height_of_G": 41.2442, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [74, 3], "edges": [5467, 444, 5485], "curve": "E_ab", "height_of_G": 7.8262, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [74, 11], "edges": [5355, 1628, 5597], "curve": "E_ab", "height_of_G": 11.4323, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [74, 13], "edges": [5307, 1924, 5645], "curve": "E_bd", "height_of_G": 13.1616, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [75, 44], "edges": [3689, 6600, 7561], "curve": "E_ad", "height_of_G": 8.8055, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [75, 62], "edges": [1781, 9300, 9469], "curve": "E_ab", "height_of_G": 17.659, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [75, 74], "edges": [149, 11100, 11101], "curve": "E_ad", "height_of_G": 5.0415, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 27], "edges": [5047, 4104, 6505], "curve": "E_ab", "height_of_G": 34.2578, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 29], "edges": [4935, 4408, 6617], "curve": "E_ad", "height_of_G": 16.8729, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 43], "edges": [3927, 6536, 7625], "curve": "E_ab", "height_of_G": 20.7985, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 59], "edges": [2295, 8968, 9257], "curve": "E_ab", "height_of_G": 13.747, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 65], "edges": [1551, 9880, 10001], "curve": "E_ab", "height_of_G": 8.2618, "divided_by": [], "torsion": 8, "primes_used": 35, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 69], "edges": [1015, 10488, 10537], "curve": "E_ab", "height_of_G": 12.5852, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [76, 71], "edges": [735, 10792, 10817], "curve": "E_ab", "height_of_G": 5.9554, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [71, 46], "edges": [2925, 6532, 7157], "curve": "E_ab", "height_of_G": 17.0332, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [71, 60], "edges": [1441, 8520, 8641], "curve": "E_ab", "height_of_G": 33.5326, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [71, 64], "edges": [945, 9088, 9137], "curve": "E_ab", "height_of_G": 6.7854, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 7], "edges": [5135, 1008, 5233], "curve": "E_ab", "height_of_G": 6.3996, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 23], "edges": [4655, 3312, 5713], "curve": "E_ab", "height_of_G": 3.8104, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 25], "edges": [4559, 3600, 5809], "curve": "E_bd", "height_of_G": 9.7715, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 29], "edges": [4343, 4176, 6025], "curve": "E_ab", "height_of_G": 11.1171, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 37], "edges": [3815, 5328, 6553], "curve": "E_ad", "height_of_G": 19.429, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 41], "edges": [3503, 5904, 6865], "curve": "E_ab", "height_of_G": 6.8692, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 43], "edges": [3335, 6192, 7033], "curve": "E_ab", "height_of_G": 26.7148, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [72, 61], "edges": [1463, 8784, 8905], "curve": "E_ad", "height_of_G": 9.0036, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 4], "edges": [5313, 584, 5345], "curve": "E_ab", "height_of_G": 16.5132, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 14], "edges": [5133, 2044, 5525], "curve": "E_ad", "height_of_G": 16.1723, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 16], "edges": [5073, 2336, 5585], "curve": "E_ab", "height_of_G": 8.6698, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 24], "edges": [4753, 3504, 5905], "curve": "E_ad", "height_of_G": 41.6376, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 32], "edges": [4305, 4672, 6353], "curve": "E_ab", "height_of_G": 8.289, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 38], "edges": [3885, 5548, 6773], "curve": "E_ad", "height_of_G": 13.2141, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 40], "edges": [3729, 5840, 6929], "curve": "E_ad", "height_of_G": 7.5225, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 48], "edges": [3025, 7008, 7633], "curve": "E_ab", "height_of_G": 8.7586, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 50], "edges": [2829, 7300, 7829], "curve": "E_ab", "height_of_G": 16.7976, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 52], "edges": [2625, 7592, 8033], "curve": "E_ab", "height_of_G": 19.5973, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 60], "edges": [1729, 8760, 8929], "curve": "E_ab", "height_of_G": 8.4598, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [73, 64], "edges": [1233, 9344, 9425], "curve": "E_ab", "height_of_G": 41.2442, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [74, 3], "edges": [5467, 444, 5485], "curve": "E_ab", "height_of_G": 7.8262, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [74, 11], "edges": [5355, 1628, 5597], "curve": "E_ab", "height_of_G": 11.4323, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [74, 13], "edges": [5307, 1924, 5645], "curve": "E_bd", "height_of_G": 13.1616, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [75, 44], "edges": [3689, 6600, 7561], "curve": "E_ad", "height_of_G": 8.8055, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [75, 62], "edges": [1781, 9300, 9469], "curve": "E_ab", "height_of_G": 17.659, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [75, 74], "edges": [149, 11100, 11101], "curve": "E_ad", "height_of_G": 5.0415, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 27], "edges": [5047, 4104, 6505], "curve": "E_ab", "height_of_G": 34.2578, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 29], "edges": [4935, 4408, 6617], "curve": "E_ad", "height_of_G": 16.8729, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 43], "edges": [3927, 6536, 7625], "curve": "E_ab", "height_of_G": 20.7985, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 59], "edges": [2295, 8968, 9257], "curve": "E_ab", "height_of_G": 13.747, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 65], "edges": [1551, 9880, 10001], "curve": "E_ab", "height_of_G": 8.2618, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 69], "edges": [1015, 10488, 10537], "curve": "E_ab", "height_of_G": 12.5852, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [76, 71], "edges": [735, 10792, 10817], "curve": "E_ab", "height_of_G": 5.9554, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [77, 10], "edges": [5829, 1540, 6029], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [77, 20], "edges": [5529, 3080, 6329], "curve": "E_ab", "height_of_G": 9.3538, "divided_by": [], "torsion": 8, "primes_used": 62, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [77, 26], "edges": [5253, 4004, 6605], "curve": "E_bd", "height_of_G": 10.7685, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [77, 54], "edges": [3013, 8316, 8845], "curve": "E_ab", "height_of_G": 6.5827, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [77, 64], "edges": [1833, 9856, 10025], "curve": "E_ab", "height_of_G": 6.5289, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [77, 20], "edges": [5529, 3080, 6329], "curve": "E_ab", "height_of_G": 9.3538, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [77, 26], "edges": [5253, 4004, 6605], "curve": "E_bd", "height_of_G": 10.7685, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [77, 54], "edges": [3013, 8316, 8845], "curve": "E_ab", "height_of_G": 6.5827, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [77, 64], "edges": [1833, 9856, 10025], "curve": "E_ab", "height_of_G": 6.5289, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [77, 72], "edges": [745, 11088, 11113], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [78, 7], "edges": [6035, 1092, 6133], "curve": "E_bd", "height_of_G": 30.3018, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [78, 19], "edges": [5723, 2964, 6445], "curve": "E_ab", "height_of_G": 4.2699, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [78, 35], "edges": [4859, 5460, 7309], "curve": "E_ab", "height_of_G": 13.0199, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [78, 7], "edges": [6035, 1092, 6133], "curve": "E_bd", "height_of_G": 30.3018, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [78, 19], "edges": [5723, 2964, 6445], "curve": "E_ab", "height_of_G": 4.2699, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [78, 35], "edges": [4859, 5460, 7309], "curve": "E_ab", "height_of_G": 13.0199, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [79, 12], "edges": [6097, 1896, 6385], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [79, 16], "edges": [5985, 2528, 6497], "curve": "E_ab", "height_of_G": 13.7018, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [79, 24], "edges": [5665, 3792, 6817], "curve": "E_ab", "height_of_G": 16.3989, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [79, 40], "edges": [4641, 6320, 7841], "curve": "E_ab", "height_of_G": 11.2588, "divided_by": [], "torsion": 8, "primes_used": 31, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [79, 48], "edges": [3937, 7584, 8545], "curve": "E_ab", "height_of_G": 13.9388, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [79, 54], "edges": [3325, 8532, 9157], "curve": "E_ab", "height_of_G": 5.6717, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [79, 58], "edges": [2877, 9164, 9605], "curve": "E_ad", "height_of_G": 12.4373, "divided_by": [], "torsion": 8, "primes_used": 68, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 16], "edges": [5985, 2528, 6497], "curve": "E_ab", "height_of_G": 13.7018, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 24], "edges": [5665, 3792, 6817], "curve": "E_ab", "height_of_G": 16.3989, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 40], "edges": [4641, 6320, 7841], "curve": "E_ab", "height_of_G": 11.2588, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 48], "edges": [3937, 7584, 8545], "curve": "E_ab", "height_of_G": 13.9388, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 54], "edges": [3325, 8532, 9157], "curve": "E_ab", "height_of_G": 5.6717, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [79, 58], "edges": [2877, 9164, 9605], "curve": "E_ad", "height_of_G": 12.4373, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [79, 60], "edges": [2641, 9480, 9841], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [80, 1], "edges": [6399, 160, 6401], "curve": "E_ab", "height_of_G": 5.069, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [80, 17], "edges": [6111, 2720, 6689], "curve": "E_ab", "height_of_G": 44.1129, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [80, 21], "edges": [5959, 3360, 6841], "curve": "E_bd", "height_of_G": 27.6248, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 1], "edges": [6399, 160, 6401], "curve": "E_ab", "height_of_G": 5.069, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 17], "edges": [6111, 2720, 6689], "curve": "E_ab", "height_of_G": 44.1129, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 21], "edges": [5959, 3360, 6841], "curve": "E_bd", "height_of_G": 27.6248, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [80, 27], "edges": [5671, 4320, 7129], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [80, 33], "edges": [5311, 5280, 7489], "curve": "E_ab", "height_of_G": 8.2215, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [80, 41], "edges": [4719, 6560, 8081], "curve": "E_ab", "height_of_G": 4.3955, "divided_by": [], "torsion": 8, "primes_used": 63, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [80, 43], "edges": [4551, 6880, 8249], "curve": "E_ab", "height_of_G": 7.2183, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [80, 51], "edges": [3799, 8160, 9001], "curve": "E_ad", "height_of_G": 37.4398, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 33], "edges": [5311, 5280, 7489], "curve": "E_ab", "height_of_G": 8.2215, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 41], "edges": [4719, 6560, 8081], "curve": "E_ab", "height_of_G": 4.3955, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 43], "edges": [4551, 6880, 8249], "curve": "E_ab", "height_of_G": 7.2183, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 51], "edges": [3799, 8160, 9001], "curve": "E_ad", "height_of_G": 37.4398, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [80, 57], "edges": [3151, 9120, 9649], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [80, 67], "edges": [1911, 10720, 10889], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [80, 69], "edges": [1639, 11040, 11161], "curve": "E_ab", "height_of_G": 5.1216, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [81, 10], "edges": [6461, 1620, 6661], "curve": "E_ab", "height_of_G": 8.9652, "divided_by": [], "torsion": 8, "primes_used": 38, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [81, 20], "edges": [6161, 3240, 6961], "curve": "E_ab", "height_of_G": 19.3468, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [81, 28], "edges": [5777, 4536, 7345], "curve": "E_ad", "height_of_G": 9.5543, "divided_by": [], "torsion": 8, "primes_used": 35, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [81, 56], "edges": [3425, 9072, 9697], "curve": "E_ab", "height_of_G": 21.4469, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [81, 64], "edges": [2465, 10368, 10657], "curve": "E_ab", "height_of_G": 7.1516, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [80, 69], "edges": [1639, 11040, 11161], "curve": "E_ab", "height_of_G": 5.1216, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [81, 10], "edges": [6461, 1620, 6661], "curve": "E_ab", "height_of_G": 8.9652, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [81, 20], "edges": [6161, 3240, 6961], "curve": "E_ab", "height_of_G": 19.3468, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [81, 28], "edges": [5777, 4536, 7345], "curve": "E_ad", "height_of_G": 9.5543, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [81, 56], "edges": [3425, 9072, 9697], "curve": "E_ab", "height_of_G": 21.4469, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [81, 64], "edges": [2465, 10368, 10657], "curve": "E_ab", "height_of_G": 7.1516, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [82, 1], "edges": [6723, 164, 6725], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [82, 19], "edges": [6363, 3116, 7085], "curve": "E_ad", "height_of_G": 19.6821, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [82, 21], "edges": [6283, 3444, 7165], "curve": "E_bd", "height_of_G": 9.9539, "divided_by": [], "torsion": 8, "primes_used": 64, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [82, 19], "edges": [6363, 3116, 7085], "curve": "E_ad", "height_of_G": 19.6821, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [82, 21], "edges": [6283, 3444, 7165], "curve": "E_bd", "height_of_G": 9.9539, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [82, 23], "edges": [6195, 3772, 7253], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [82, 47], "edges": [4515, 7708, 8933], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [82, 77], "edges": [795, 12628, 12653], "curve": "E_ab", "height_of_G": 38.4374, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 8], "edges": [6825, 1328, 6953], "curve": "E_ab", "height_of_G": 6.5189, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 12], "edges": [6745, 1992, 7033], "curve": "E_ab", "height_of_G": 43.7734, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [82, 77], "edges": [795, 12628, 12653], "curve": "E_ab", "height_of_G": 38.4374, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 8], "edges": [6825, 1328, 6953], "curve": "E_ab", "height_of_G": 6.5189, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 12], "edges": [6745, 1992, 7033], "curve": "E_ab", "height_of_G": 43.7734, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [83, 16], "edges": [6633, 2656, 7145], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [83, 18], "edges": [6565, 2988, 7213], "curve": "E_ab", "height_of_G": 15.3135, "divided_by": [], "torsion": 8, "primes_used": 38, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 26], "edges": [6213, 4316, 7565], "curve": "E_ab", "height_of_G": 7.5284, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 28], "edges": [6105, 4648, 7673], "curve": "E_ab", "height_of_G": 4.8674, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 36], "edges": [5593, 5976, 8185], "curve": "E_ab", "height_of_G": 13.4239, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 48], "edges": [4585, 7968, 9193], "curve": "E_ab", "height_of_G": 22.74, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 50], "edges": [4389, 8300, 9389], "curve": "E_ad", "height_of_G": 8.7171, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 54], "edges": [3973, 8964, 9805], "curve": "E_ab", "height_of_G": 13.3222, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 58], "edges": [3525, 9628, 10253], "curve": "E_ab", "height_of_G": 30.8741, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 66], "edges": [2533, 10956, 11245], "curve": "E_bd", "height_of_G": 7.4427, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 18], "edges": [6565, 2988, 7213], "curve": "E_ab", "height_of_G": 15.3135, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 26], "edges": [6213, 4316, 7565], "curve": "E_ab", "height_of_G": 7.5284, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 28], "edges": [6105, 4648, 7673], "curve": "E_ab", "height_of_G": 4.8674, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 36], "edges": [5593, 5976, 8185], "curve": "E_ab", "height_of_G": 13.4239, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 48], "edges": [4585, 7968, 9193], "curve": "E_ab", "height_of_G": 22.74, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 50], "edges": [4389, 8300, 9389], "curve": "E_ad", "height_of_G": 8.7171, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 54], "edges": [3973, 8964, 9805], "curve": "E_ab", "height_of_G": 13.3222, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 58], "edges": [3525, 9628, 10253], "curve": "E_ab", "height_of_G": 30.8741, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 66], "edges": [2533, 10956, 11245], "curve": "E_bd", "height_of_G": 7.4427, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [83, 68], "edges": [2265, 11288, 11513], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [83, 70], "edges": [1989, 11620, 11789], "curve": "E_ab", "height_of_G": 11.3124, "divided_by": [], "torsion": 8, "primes_used": 38, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 72], "edges": [1705, 11952, 12073], "curve": "E_ab", "height_of_G": 9.7791, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [83, 80], "edges": [489, 13280, 13289], "curve": "E_ab", "height_of_G": 11.8669, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 1], "edges": [7055, 168, 7057], "curve": "E_ab", "height_of_G": 14.0582, "divided_by": [], "torsion": 8, "primes_used": 66, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 23], "edges": [6527, 3864, 7585], "curve": "E_ab", "height_of_G": 13.9509, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 37], "edges": [5687, 6216, 8425], "curve": "E_ad", "height_of_G": 27.4354, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 41], "edges": [5375, 6888, 8737], "curve": "E_ab", "height_of_G": 12.1852, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 47], "edges": [4847, 7896, 9265], "curve": "E_bd", "height_of_G": 13.1205, "divided_by": [], "torsion": 8, "primes_used": 64, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 59], "edges": [3575, 9912, 10537], "curve": "E_ab", "height_of_G": 28.5069, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [84, 65], "edges": [2831, 10920, 11281], "curve": "E_ab", "height_of_G": 6.0868, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 70], "edges": [1989, 11620, 11789], "curve": "E_ab", "height_of_G": 11.3124, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 72], "edges": [1705, 11952, 12073], "curve": "E_ab", "height_of_G": 9.7791, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [83, 80], "edges": [489, 13280, 13289], "curve": "E_ab", "height_of_G": 11.8669, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 1], "edges": [7055, 168, 7057], "curve": "E_ab", "height_of_G": 14.0582, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 23], "edges": [6527, 3864, 7585], "curve": "E_ab", "height_of_G": 13.9509, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 37], "edges": [5687, 6216, 8425], "curve": "E_ad", "height_of_G": 27.4354, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 41], "edges": [5375, 6888, 8737], "curve": "E_ab", "height_of_G": 12.1852, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 47], "edges": [4847, 7896, 9265], "curve": "E_bd", "height_of_G": 13.1205, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 59], "edges": [3575, 9912, 10537], "curve": "E_ab", "height_of_G": 28.5069, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 65], "edges": [2831, 10920, 11281], "curve": "E_ab", "height_of_G": 6.0868, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [84, 79], "edges": [815, 13272, 13297], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [84, 83], "edges": [167, 13944, 13945], "curve": "E_ab", "height_of_G": 30.8546, "divided_by": [], "torsion": 8, "primes_used": 61, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [85, 6], "edges": [7189, 1020, 7261], "curve": "E_ad", "height_of_G": 36.1767, "divided_by": [], "torsion": 8, "primes_used": 64, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [85, 44], "edges": [5289, 7480, 9161], "curve": "E_bd", "height_of_G": 24.6617, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [85, 54], "edges": [4309, 9180, 10141], "curve": "E_ab", "height_of_G": 6.066, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [85, 66], "edges": [2869, 11220, 11581], "curve": "E_bd", "height_of_G": 20.8461, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [84, 83], "edges": [167, 13944, 13945], "curve": "E_ab", "height_of_G": 30.8546, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [85, 6], "edges": [7189, 1020, 7261], "curve": "E_ad", "height_of_G": 36.1767, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [85, 44], "edges": [5289, 7480, 9161], "curve": "E_bd", "height_of_G": 24.6617, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [85, 54], "edges": [4309, 9180, 10141], "curve": "E_ab", "height_of_G": 6.066, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [85, 66], "edges": [2869, 11220, 11581], "curve": "E_bd", "height_of_G": 20.8461, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [86, 3], "edges": [7387, 516, 7405], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [86, 5], "edges": [7371, 860, 7421], "curve": "E_ab", "height_of_G": 7.513, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [86, 7], "edges": [7347, 1204, 7445], "curve": "E_ab", "height_of_G": 15.317, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [86, 9], "edges": [7315, 1548, 7477], "curve": "E_ad", "height_of_G": 25.1201, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [86, 19], "edges": [7035, 3268, 7757], "curve": "E_ab", "height_of_G": 13.2336, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [86, 47], "edges": [5187, 8084, 9605], "curve": "E_ad", "height_of_G": 13.4413, "divided_by": [], "torsion": 8, "primes_used": 55, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 5], "edges": [7371, 860, 7421], "curve": "E_ab", "height_of_G": 7.513, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 7], "edges": [7347, 1204, 7445], "curve": "E_ab", "height_of_G": 15.317, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 9], "edges": [7315, 1548, 7477], "curve": "E_ad", "height_of_G": 25.1201, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 19], "edges": [7035, 3268, 7757], "curve": "E_ab", "height_of_G": 13.2336, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 47], "edges": [5187, 8084, 9605], "curve": "E_ad", "height_of_G": 13.4413, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [86, 53], "edges": [4587, 9116, 10205], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [86, 59], "edges": [3915, 10148, 10877], "curve": "E_ab", "height_of_G": 15.6975, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [86, 61], "edges": [3675, 10492, 11117], "curve": "E_ab", "height_of_G": 18.2709, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 59], "edges": [3915, 10148, 10877], "curve": "E_ab", "height_of_G": 15.6975, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [86, 61], "edges": [3675, 10492, 11117], "curve": "E_ab", "height_of_G": 18.2709, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [86, 67], "edges": [2907, 11524, 11885], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [87, 8], "edges": [7505, 1392, 7633], "curve": "E_ab", "height_of_G": 13.9818, "divided_by": [], "torsion": 8, "primes_used": 34, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [87, 26], "edges": [6893, 4524, 8245], "curve": "E_ab", "height_of_G": 25.0684, "divided_by": [], "torsion": 8, "primes_used": 61, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [87, 8], "edges": [7505, 1392, 7633], "curve": "E_ab", "height_of_G": 13.9818, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [87, 26], "edges": [6893, 4524, 8245], "curve": "E_ab", "height_of_G": 25.0684, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [87, 28], "edges": [6785, 4872, 8353], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [87, 40], "edges": [5969, 6960, 9169], "curve": "E_ab", "height_of_G": 41.4038, "divided_by": [], "torsion": 8, "primes_used": 35, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [87, 50], "edges": [5069, 8700, 10069], "curve": "E_ab", "height_of_G": 20.8212, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [87, 40], "edges": [5969, 6960, 9169], "curve": "E_ab", "height_of_G": 41.4038, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [87, 50], "edges": [5069, 8700, 10069], "curve": "E_ab", "height_of_G": 20.8212, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [88, 7], "edges": [7695, 1232, 7793], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [88, 9], "edges": [7663, 1584, 7825], "curve": "E_ab", "height_of_G": 6.9652, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 13], "edges": [7575, 2288, 7913], "curve": "E_ab", "height_of_G": 18.2594, "divided_by": [], "torsion": 8, "primes_used": 43, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 17], "edges": [7455, 2992, 8033], "curve": "E_ab", "height_of_G": 9.2865, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 25], "edges": [7119, 4400, 8369], "curve": "E_ab", "height_of_G": 11.3556, "divided_by": [], "torsion": 8, "primes_used": 58, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 41], "edges": [6063, 7216, 9425], "curve": "E_ad", "height_of_G": 9.1051, "divided_by": [], "torsion": 8, "primes_used": 65, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 43], "edges": [5895, 7568, 9593], "curve": "E_ab", "height_of_G": 9.093, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 49], "edges": [5343, 8624, 10145], "curve": "E_ab", "height_of_G": 9.7487, "divided_by": [], "torsion": 8, "primes_used": 36, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 53], "edges": [4935, 9328, 10553], "curve": "E_ab", "height_of_G": 5.9622, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 59], "edges": [4263, 10384, 11225], "curve": "E_ab", "height_of_G": 6.3932, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 9], "edges": [7663, 1584, 7825], "curve": "E_ab", "height_of_G": 6.9652, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 13], "edges": [7575, 2288, 7913], "curve": "E_ab", "height_of_G": 18.2594, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 17], "edges": [7455, 2992, 8033], "curve": "E_ab", "height_of_G": 9.2865, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 25], "edges": [7119, 4400, 8369], "curve": "E_ab", "height_of_G": 11.3556, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 41], "edges": [6063, 7216, 9425], "curve": "E_ad", "height_of_G": 9.1051, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 43], "edges": [5895, 7568, 9593], "curve": "E_ab", "height_of_G": 9.093, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 49], "edges": [5343, 8624, 10145], "curve": "E_ab", "height_of_G": 9.7487, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 53], "edges": [4935, 9328, 10553], "curve": "E_ab", "height_of_G": 5.9622, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 59], "edges": [4263, 10384, 11225], "curve": "E_ab", "height_of_G": 6.3932, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [88, 61], "edges": [4023, 10736, 11465], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [88, 73], "edges": [2415, 12848, 13073], "curve": "E_ab", "height_of_G": 26.372, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 83], "edges": [855, 14608, 14633], "curve": "E_ab", "height_of_G": 7.085, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [88, 85], "edges": [519, 14960, 14969], "curve": "E_bd", "height_of_G": 20.9592, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 73], "edges": [2415, 12848, 13073], "curve": "E_ab", "height_of_G": 26.372, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 83], "edges": [855, 14608, 14633], "curve": "E_ab", "height_of_G": 7.085, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [88, 85], "edges": [519, 14960, 14969], "curve": "E_bd", "height_of_G": 20.9592, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [89, 4], "edges": [7905, 712, 7937], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [89, 14], "edges": [7725, 2492, 8117], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [89, 20], "edges": [7521, 3560, 8321], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [89, 40], "edges": [6321, 7120, 9521], "curve": "E_ab", "height_of_G": 33.5899, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 40], "edges": [6321, 7120, 9521], "curve": "E_ab", "height_of_G": 33.5899, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [89, 44], "edges": [5985, 7832, 9857], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [89, 48], "edges": [5617, 8544, 10225], "curve": "E_ab", "height_of_G": 21.01, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [89, 56], "edges": [4785, 9968, 11057], "curve": "E_bd", "height_of_G": 38.237, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [89, 58], "edges": [4557, 10324, 11285], "curve": "E_ab", "height_of_G": 22.6291, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [89, 60], "edges": [4321, 10680, 11521], "curve": "E_ab", "height_of_G": 18.5024, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [89, 72], "edges": [2737, 12816, 13105], "curve": "E_bd", "height_of_G": 14.8565, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [89, 80], "edges": [1521, 14240, 14321], "curve": "E_ad", "height_of_G": 18.4162, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [90, 43], "edges": [6251, 7740, 9949], "curve": "E_ab", "height_of_G": 19.3761, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [90, 61], "edges": [4379, 10980, 11821], "curve": "E_ab", "height_of_G": 24.9221, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [91, 12], "edges": [8137, 2184, 8425], "curve": "E_ab", "height_of_G": 23.6425, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [91, 72], "edges": [3097, 13104, 13465], "curve": "E_ab", "height_of_G": 11.748, "divided_by": [], "torsion": 8, "primes_used": 65, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [91, 74], "edges": [2805, 13468, 13757], "curve": "E_ab", "height_of_G": 39.0012, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [91, 80], "edges": [1881, 14560, 14681], "curve": "E_ab", "height_of_G": 2.5433, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [91, 88], "edges": [537, 16016, 16025], "curve": "E_ab", "height_of_G": 11.4649, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [92, 7], "edges": [8415, 1288, 8513], "curve": "E_ab", "height_of_G": 9.9436, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [92, 13], "edges": [8295, 2392, 8633], "curve": "E_ad", "height_of_G": 11.1298, "divided_by": [], "torsion": 8, "primes_used": 53, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [92, 17], "edges": [8175, 3128, 8753], "curve": "E_ad", "height_of_G": 13.0544, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 48], "edges": [5617, 8544, 10225], "curve": "E_ab", "height_of_G": 21.01, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 56], "edges": [4785, 9968, 11057], "curve": "E_bd", "height_of_G": 38.237, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 58], "edges": [4557, 10324, 11285], "curve": "E_ab", "height_of_G": 22.6291, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 60], "edges": [4321, 10680, 11521], "curve": "E_ab", "height_of_G": 18.5024, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 72], "edges": [2737, 12816, 13105], "curve": "E_bd", "height_of_G": 14.8565, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [89, 80], "edges": [1521, 14240, 14321], "curve": "E_ad", "height_of_G": 18.4162, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [90, 43], "edges": [6251, 7740, 9949], "curve": "E_ab", "height_of_G": 19.3761, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [90, 61], "edges": [4379, 10980, 11821], "curve": "E_ab", "height_of_G": 24.9221, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [91, 12], "edges": [8137, 2184, 8425], "curve": "E_ab", "height_of_G": 23.6425, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [91, 72], "edges": [3097, 13104, 13465], "curve": "E_ab", "height_of_G": 11.748, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [91, 74], "edges": [2805, 13468, 13757], "curve": "E_ab", "height_of_G": 39.0012, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [91, 80], "edges": [1881, 14560, 14681], "curve": "E_ab", "height_of_G": 2.5433, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [91, 88], "edges": [537, 16016, 16025], "curve": "E_ab", "height_of_G": 11.4649, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 7], "edges": [8415, 1288, 8513], "curve": "E_ab", "height_of_G": 9.9436, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 13], "edges": [8295, 2392, 8633], "curve": "E_ad", "height_of_G": 11.1298, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 17], "edges": [8175, 3128, 8753], "curve": "E_ad", "height_of_G": 13.0544, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [92, 19], "edges": [8103, 3496, 8825], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [92, 21], "edges": [8023, 3864, 8905], "curve": "E_ab", "height_of_G": 41.83, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 21], "edges": [8023, 3864, 8905], "curve": "E_ab", "height_of_G": 41.83, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [92, 39], "edges": [6943, 7176, 9985], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [92, 41], "edges": [6783, 7544, 10145], "curve": "E_ab", "height_of_G": 39.1064, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 41], "edges": [6783, 7544, 10145], "curve": "E_ab", "height_of_G": 39.1064, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [92, 47], "edges": [6255, 8648, 10673], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [92, 77], "edges": [2535, 14168, 14393], "curve": "E_ab", "height_of_G": 11.8507, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [92, 83], "edges": [1575, 15272, 15353], "curve": "E_ad", "height_of_G": 19.0631, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [92, 85], "edges": [1239, 15640, 15689], "curve": "E_ab", "height_of_G": 14.7942, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [93, 22], "edges": [8165, 4092, 9133], "curve": "E_ab", "height_of_G": 10.2041, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [93, 44], "edges": [6713, 8184, 10585], "curve": "E_ad", "height_of_G": 39.7716, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 5], "edges": [8811, 940, 8861], "curve": "E_ab", "height_of_G": 7.4151, "divided_by": [], "torsion": 8, "primes_used": 46, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 7], "edges": [8787, 1316, 8885], "curve": "E_ab", "height_of_G": 17.7377, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 25], "edges": [8211, 4700, 9461], "curve": "E_bd", "height_of_G": 18.4495, "divided_by": [], "torsion": 8, "primes_used": 87, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 29], "edges": [7995, 5452, 9677], "curve": "E_ab", "height_of_G": 4.8935, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 77], "edges": [2535, 14168, 14393], "curve": "E_ab", "height_of_G": 11.8507, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 83], "edges": [1575, 15272, 15353], "curve": "E_ad", "height_of_G": 19.0631, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [92, 85], "edges": [1239, 15640, 15689], "curve": "E_ab", "height_of_G": 14.7942, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [93, 22], "edges": [8165, 4092, 9133], "curve": "E_ab", "height_of_G": 10.2041, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [93, 44], "edges": [6713, 8184, 10585], "curve": "E_ad", "height_of_G": 39.7716, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 5], "edges": [8811, 940, 8861], "curve": "E_ab", "height_of_G": 7.4151, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 7], "edges": [8787, 1316, 8885], "curve": "E_ab", "height_of_G": 17.7377, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 25], "edges": [8211, 4700, 9461], "curve": "E_bd", "height_of_G": 18.4495, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 29], "edges": [7995, 5452, 9677], "curve": "E_ab", "height_of_G": 4.8935, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [94, 35], "edges": [7611, 6580, 10061], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [94, 37], "edges": [7467, 6956, 10205], "curve": "E_ad", "height_of_G": 6.9586, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 51], "edges": [6235, 9588, 11437], "curve": "E_bd", "height_of_G": 31.2625, "divided_by": [], "torsion": 8, "primes_used": 76, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 59], "edges": [5355, 11092, 12317], "curve": "E_bd", "height_of_G": 32.5165, "divided_by": [], "torsion": 8, "primes_used": 69, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 71], "edges": [3795, 13348, 13877], "curve": "E_ab", "height_of_G": 9.5536, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 77], "edges": [2907, 14476, 14765], "curve": "E_ad", "height_of_G": 23.9064, "divided_by": [], "torsion": 8, "primes_used": 37, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [94, 85], "edges": [1611, 15980, 16061], "curve": "E_ab", "height_of_G": 28.9158, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 37], "edges": [7467, 6956, 10205], "curve": "E_ad", "height_of_G": 6.9586, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 51], "edges": [6235, 9588, 11437], "curve": "E_bd", "height_of_G": 31.2625, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 59], "edges": [5355, 11092, 12317], "curve": "E_bd", "height_of_G": 32.5165, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 71], "edges": [3795, 13348, 13877], "curve": "E_ab", "height_of_G": 9.5536, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 77], "edges": [2907, 14476, 14765], "curve": "E_ad", "height_of_G": 23.9064, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 85], "edges": [1611, 15980, 16061], "curve": "E_ab", "height_of_G": 28.9158, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [94, 89], "edges": [915, 16732, 16757], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [94, 91], "edges": [555, 17108, 17117], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [94, 93], "edges": [187, 17484, 17485], "curve": "E_ad", "height_of_G": 37.9459, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [95, 12], "edges": [8881, 2280, 9169], "curve": "E_ab", "height_of_G": 34.5841, "divided_by": [], "torsion": 8, "primes_used": 37, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [95, 18], "edges": [8701, 3420, 9349], "curve": "E_ab", "height_of_G": 7.2227, "divided_by": [], "torsion": 8, "primes_used": 37, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [95, 26], "edges": [8349, 4940, 9701], "curve": "E_ab", "height_of_G": 12.1716, "divided_by": [], "torsion": 8, "primes_used": 57, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [95, 72], "edges": [3841, 13680, 14209], "curve": "E_bd", "height_of_G": 27.1657, "divided_by": [], "torsion": 8, "primes_used": 68, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 7], "edges": [9167, 1344, 9265], "curve": "E_ab", "height_of_G": 19.663, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 11], "edges": [9095, 2112, 9337], "curve": "E_bd", "height_of_G": 6.8588, "divided_by": [], "torsion": 8, "primes_used": 68, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 23], "edges": [8687, 4416, 9745], "curve": "E_ab", "height_of_G": 11.2005, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 31], "edges": [8255, 5952, 10177], "curve": "E_ab", "height_of_G": 16.5101, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 37], "edges": [7847, 7104, 10585], "curve": "E_ab", "height_of_G": 40.1911, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 47], "edges": [7007, 9024, 11425], "curve": "E_ad", "height_of_G": 31.8678, "divided_by": [], "torsion": 8, "primes_used": 63, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [94, 93], "edges": [187, 17484, 17485], "curve": "E_ad", "height_of_G": 37.9459, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [95, 12], "edges": [8881, 2280, 9169], "curve": "E_ab", "height_of_G": 34.5841, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [95, 18], "edges": [8701, 3420, 9349], "curve": "E_ab", "height_of_G": 7.2227, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [95, 26], "edges": [8349, 4940, 9701], "curve": "E_ab", "height_of_G": 12.1716, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [95, 72], "edges": [3841, 13680, 14209], "curve": "E_bd", "height_of_G": 27.1657, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 7], "edges": [9167, 1344, 9265], "curve": "E_ab", "height_of_G": 19.663, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 11], "edges": [9095, 2112, 9337], "curve": "E_bd", "height_of_G": 6.8588, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 23], "edges": [8687, 4416, 9745], "curve": "E_ab", "height_of_G": 11.2005, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 31], "edges": [8255, 5952, 10177], "curve": "E_ab", "height_of_G": 16.5101, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 37], "edges": [7847, 7104, 10585], "curve": "E_ab", "height_of_G": 40.1911, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 47], "edges": [7007, 9024, 11425], "curve": "E_ad", "height_of_G": 31.8678, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [96, 49], "edges": [6815, 9408, 11617], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [96, 65], "edges": [4991, 12480, 13441], "curve": "E_ab", "height_of_G": 5.8405, "divided_by": [], "torsion": 8, "primes_used": 47, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 73], "edges": [3887, 14016, 14545], "curve": "E_bd", "height_of_G": 11.9006, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [96, 89], "edges": [1295, 17088, 17137], "curve": "E_ad", "height_of_G": 42.3599, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 65], "edges": [4991, 12480, 13441], "curve": "E_ab", "height_of_G": 5.8405, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 73], "edges": [3887, 14016, 14545], "curve": "E_bd", "height_of_G": 11.9006, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [96, 89], "edges": [1295, 17088, 17137], "curve": "E_ad", "height_of_G": 42.3599, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [97, 8], "edges": [9345, 1552, 9473], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [97, 20], "edges": [9009, 3880, 9809], "curve": "E_ab", "height_of_G": 5.7746, "divided_by": [], "torsion": 8, "primes_used": 37, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 24], "edges": [8833, 4656, 9985], "curve": "E_bd", "height_of_G": 27.5137, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 34], "edges": [8253, 6596, 10565], "curve": "E_ab", "height_of_G": 7.251, "divided_by": [], "torsion": 8, "primes_used": 40, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 40], "edges": [7809, 7760, 11009], "curve": "E_bd", "height_of_G": 14.2057, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 44], "edges": [7473, 8536, 11345], "curve": "E_ab", "height_of_G": 28.9457, "divided_by": [], "torsion": 8, "primes_used": 50, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 66], "edges": [5053, 12804, 13765], "curve": "E_ab", "height_of_G": 20.9646, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 68], "edges": [4785, 13192, 14033], "curve": "E_ad", "height_of_G": 21.5591, "divided_by": [], "torsion": 8, "primes_used": 54, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 80], "edges": [3009, 15520, 15809], "curve": "E_ab", "height_of_G": 32.5538, "divided_by": [], "torsion": 8, "primes_used": 44, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [97, 96], "edges": [193, 18624, 18625], "curve": "E_bd", "height_of_G": 22.4131, "divided_by": [], "torsion": 8, "primes_used": 48, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 9], "edges": [9523, 1764, 9685], "curve": "E_bd", "height_of_G": 16.63, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 13], "edges": [9435, 2548, 9773], "curve": "E_ab", "height_of_G": 12.7267, "divided_by": [], "torsion": 8, "primes_used": 42, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 41], "edges": [7923, 8036, 11285], "curve": "E_ab", "height_of_G": 30.1717, "divided_by": [], "torsion": 8, "primes_used": 56, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 47], "edges": [7395, 9212, 11813], "curve": "E_ab", "height_of_G": 24.7319, "divided_by": [], "torsion": 8, "primes_used": 49, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 51], "edges": [7003, 9996, 12205], "curve": "E_ab", "height_of_G": 11.5783, "divided_by": [], "torsion": 8, "primes_used": 33, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 53], "edges": [6795, 10388, 12413], "curve": "E_ab", "height_of_G": 36.4346, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [98, 81], "edges": [3043, 15876, 16165], "curve": "E_ab", "height_of_G": 27.1363, "divided_by": [], "torsion": 8, "primes_used": 51, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [99, 14], "edges": [9605, 2772, 9997], "curve": "E_ad", "height_of_G": 16.7195, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [99, 28], "edges": [9017, 5544, 10585], "curve": "E_ad", "height_of_G": 10.7579, "divided_by": [], "torsion": 8, "primes_used": 52, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 20], "edges": [9009, 3880, 9809], "curve": "E_ab", "height_of_G": 5.7746, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 24], "edges": [8833, 4656, 9985], "curve": "E_bd", "height_of_G": 27.5137, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 34], "edges": [8253, 6596, 10565], "curve": "E_ab", "height_of_G": 7.251, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 40], "edges": [7809, 7760, 11009], "curve": "E_bd", "height_of_G": 14.2057, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 44], "edges": [7473, 8536, 11345], "curve": "E_ab", "height_of_G": 28.9457, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 66], "edges": [5053, 12804, 13765], "curve": "E_ab", "height_of_G": 20.9646, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 68], "edges": [4785, 13192, 14033], "curve": "E_ad", "height_of_G": 21.5591, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 80], "edges": [3009, 15520, 15809], "curve": "E_ab", "height_of_G": 32.5538, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [97, 96], "edges": [193, 18624, 18625], "curve": "E_bd", "height_of_G": 22.4131, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 9], "edges": [9523, 1764, 9685], "curve": "E_bd", "height_of_G": 16.63, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 13], "edges": [9435, 2548, 9773], "curve": "E_ab", "height_of_G": 12.7267, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 41], "edges": [7923, 8036, 11285], "curve": "E_ab", "height_of_G": 30.1717, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 47], "edges": [7395, 9212, 11813], "curve": "E_ab", "height_of_G": 24.7319, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 51], "edges": [7003, 9996, 12205], "curve": "E_ab", "height_of_G": 11.5783, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 53], "edges": [6795, 10388, 12413], "curve": "E_ab", "height_of_G": 36.4346, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [98, 81], "edges": [3043, 15876, 16165], "curve": "E_ab", "height_of_G": 27.1363, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [99, 14], "edges": [9605, 2772, 9997], "curve": "E_ad", "height_of_G": 16.7195, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [99, 28], "edges": [9017, 5544, 10585], "curve": "E_ad", "height_of_G": 10.7579, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [99, 56], "edges": [6665, 11088, 12937], "status": "no curve of rank exactly 1 with a point found"}
-{"base": [99, 68], "edges": [5177, 13464, 14425], "curve": "E_ab", "height_of_G": 45.6971, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [99, 70], "edges": [4901, 13860, 14701], "curve": "E_ad", "height_of_G": 25.9234, "divided_by": [], "torsion": 8, "primes_used": 41, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [100, 39], "edges": [8479, 7800, 11521], "curve": "E_ab", "height_of_G": 7.7228, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [100, 49], "edges": [7599, 9800, 12401], "curve": "E_bd", "height_of_G": 14.2945, "divided_by": [], "torsion": 8, "primes_used": 59, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [100, 59], "edges": [6519, 11800, 13481], "curve": "E_ad", "height_of_G": 8.4938, "divided_by": [], "torsion": 8, "primes_used": 45, "N": 1000000, "survivors": [], "status": "no k up to N"}
-{"base": [100, 63], "edges": [6031, 12600, 13969], "curve": "E_ab", "height_of_G": 10.3451, "divided_by": [], "torsion": 8, "primes_used": 39, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [99, 68], "edges": [5177, 13464, 14425], "curve": "E_ab", "height_of_G": 45.6971, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [99, 70], "edges": [4901, 13860, 14701], "curve": "E_ad", "height_of_G": 25.9234, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [100, 39], "edges": [8479, 7800, 11521], "curve": "E_ab", "height_of_G": 7.7228, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [100, 49], "edges": [7599, 9800, 12401], "curve": "E_bd", "height_of_G": 14.2945, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [100, 59], "edges": [6519, 11800, 13481], "curve": "E_ad", "height_of_G": 8.4938, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
+{"base": [100, 63], "edges": [6031, 12600, 13969], "curve": "E_ab", "height_of_G": 10.3451, "divided_by": [], "torsion": 8, "N": 1000000, "survivors": [], "status": "no k up to N"}
 {"base": [100, 67], "edges": [5511, 13400, 14489], "status": "no curve of rank exactly 1 with a point found"}
 {"base": [100, 89], "edges": [2079, 17800, 17921], "status": "no curve of rank exactly 1 with a point found"}

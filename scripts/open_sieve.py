@@ -8,6 +8,7 @@ at which X = t^2 is a nonzero square and X + a^2, X + b^2, X + d^2 are squares. 
 numbers must be squares or zero (or the point must be at infinity or at X = infinity, which is allowed, to be safe).  The values
 of k G + T modulo p depend on k modulo the order of G, so each prime gives a table, and k survives if every prime allows it.
 The torsion points (k = 0) include the trivial points X = 0 and X = infinity, which always survive.
+(The number of primes used is not printed: it depends on which generator PARI returns, +-G + T, through the primes in its denominator.)
 Result for a base: the list of (k, T) with 0 < k <= N that survive; if it is empty, a perfect cuboid on that base needs |k| > N.
 usage: open_sieve.py census.jsonl N [first [last]]       (bases number first..last of the open ones)"""
 import sys, json, itertools, numpy as np, cypari2
@@ -57,7 +58,7 @@ def sieve(rec, N, useD=1, only=None):
             if sum(len(k) for k in alive) == 0 and used >= 12: break
             if not useD and used >= 150: break
         left = sorted((int(k), j) for j, ks in enumerate(alive) for k in ks)
-        out.update(curve=name, height_of_G=round(h, 4), divided_by=div, torsion=len(Ts), primes_used=used, N=N, survivors=left[:20], status='no k up to N' if not left else 'SURVIVORS')
+        out.update(curve=name, height_of_G=round(h, 4), divided_by=div, torsion=len(Ts), N=N, survivors=left[:20], status='no k up to N' if not left else 'SURVIVORS')
         return out
     out['status'] = 'no curve of rank exactly 1 with a point found'; return out
 if __name__ == '__main__':
