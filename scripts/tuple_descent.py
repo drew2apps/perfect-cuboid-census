@@ -27,7 +27,7 @@ usage: tuple_descent.py magic|cuboid m,n [largest good prime, default 150]
        tuple_descent.py batch magic|cuboid pairs.txt jobs [first [last]]     one line per ratio; the file has one ratio m,n at the
                                                                             start of each line, or ratios separated by spaces on one line"""
 import sys
-from math import gcd, prod
+from math import gcd, prod, isqrt
 from itertools import product
 from sympy import factorint, primerange
 
@@ -139,9 +139,9 @@ def magic(m, n):
     forms = [((0, n), (m, 0)), ((0, -m), (n, 0)), (al((m, -n)), al((-n, m))), (al((m, n)), al((n, m)))]   # F0, F8, GL, GU
     P0 = sorted(set([2]) | set(factorint(m)) | set(factorint(n))); PL = sorted(set([2]) | set(factorint(abs(m - n))) | set(factorint(m + n)))
     S = m*m + n*n; D = m*m - n*n; known = []
-    if int(S**0.5 + 0.5)**2 == S:                           # t = 1 and t = -1
+    if isqrt(S)**2 == S:                           # t = 1 and t = -1
         for u, v in ((1, 1), (-1, 1)): known.append(tuple(cls_of((a[0]*u + b[0]*v, a[1]*u + b[1]*v)) for a, b in forms))
-    if int((2*S)**0.5 + 0.5)**2 == 2*S:                     # t = 0 and t = infinity
+    if isqrt(2*S)**2 == 2*S:                     # t = 0 and t = infinity
         for u, v in ((0, 1), (1, 0)): known.append(tuple(cls_of((a[0]*u + b[0]*v, a[1]*u + b[1]*v)) for a, b in forms))
     return forms, [P0, P0, PL, PL], sorted(set(known))
 

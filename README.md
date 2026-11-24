@@ -71,9 +71,20 @@ a curve of genus 1 defined over `ℚ` with the rational point `s = x`; there are
 
 So for the 2,040 bases with `m ≤ 100`: 1,629 have no perfect cuboid by a curve of rank 0 over `ℚ`; 274 more by the descent in two steps, if that experiment is right; of the other 137, 123 have none below an absurd size and 14 are untouched.
 
+## Comparison with Peschmann's fibers
+
+`scripts/compare_peschmann.py`, output in `scripts/peschmann_comparison.txt`. R. Peschmann's preprint arXiv:2604.28072 (30 April 2026) proves that there is no perfect cuboid on 1,072 "master-tuple fibers" `(m, n)` with `m ≤ 100`. His fiber fixes the ratio of two edges, `2mn : m² − n²`, which is the base `(m, n)` here, and his range is the same 2,040 pairs; he uses two elliptic quotients of a curve of genus 3, with the rank found by PARI's 2-descent or, where that leaves it undetermined, by an `L`-value. His list is in his repository (`renpe/euler-brick-obstructions`, `paper3/data/proven_fibers.csv`); it is not copied here.
+
+- Of his 1,072 fibers, 1,026 are closed by the census here, 32 more by the two-step descent, and **14 by neither**: (26,23), (40,23), (41,40), (52,41), (61,60), (65,58), (73,16), (77,72), (80,27), (80,67), (86,3), (89,80), (97,80), (100,39).
+- All 46 that the census misses he proved with an `L`-value. That is consistent: on the five bases tried, his two curves have the same number of points modulo 25 primes as the curves `E_bd` and `E_2` here, so they are presumably isogenous to them; the rank is 0, and PARI's 2-descent does not decide it for these bases. For 32 of them the two-step descent closes the base by a different argument, which is an independent agreement.
+- In the other direction, 845 bases are closed here and are not in his list: 603 by the census and 242 by the two-step descent.
+- Together: 1,917 of the 2,040 bases are closed by one of the two works; 123 are open in both.
+
+No base is closed by one work in a way that contradicts the other. We have compared lists, not proofs: we have not checked his argument, and nobody has checked ours.
+
 ## What is known
 
-- Excluding cuboids with a given face ratio by an elliptic curve of rank 0 is in the literature, for instance in *Novel required properties of, and efficient algorithms to seek, perfect cuboids* (arXiv:2401.06784), and R. Peschmann's 2026 preprints treat explicit families of fibres with elliptic curves and torsion (arXiv:2604.28072, arXiv:2605.00573). We have not compared the list of closed bases here with theirs. If this census has any value of its own, it is as a reproducible table.
+- Excluding cuboids with a given face ratio by an elliptic curve of rank 0 is in the literature, for instance in *Novel required properties of, and efficient algorithms to seek, perfect cuboids* (arXiv:2401.06784), and R. Peschmann's 2026 preprints treat explicit families of fibres with elliptic curves and torsion (arXiv:2604.28072, arXiv:2605.00573). The list of closed bases is compared with the first of them in the section above. If this census has any value of its own, it is as a reproducible table and, perhaps, in the two-step descent.
 - The searches by size (no perfect cuboid with small edges) are a different kind of statement.
 - The descent in two steps uses standard tools (a descent on a cover given by norms from `ℤ[i]`, then curves of genus 1 over a quadratic field whose rational part or twist has rank 0). We have not searched the literature for it on this problem and do not claim that it is new.
 
@@ -87,6 +98,7 @@ So for the 2,040 bases with `m ≤ 100`: 1,629 have no perfect cuboid by a curve
 
 - The 137 bases left open by the descent in two steps: products of four of the six linear factors that mix the three numbers differently, or curves of higher genus.
 - A second program for the ranks used by the second step, and a reader for its two paragraphs.
+- `L`-values for the bases where the 2-descent leaves a rank undetermined, as Peschmann does: that would close at least the 14 bases of his list that are open here.
 - An upper bound for `k`, which would turn the sieve into a proof for a base; none is known to us for this setting.
 - A second rank program for the closed bases, and `L`-values or isogeny descents for the 171 undetermined ones.
 - Lean statements of the reduction.
@@ -104,6 +116,7 @@ pip install -r ../requirements-second.txt
 bash second_batch.sh                       # the two-step descent on the 411 open bases, about 20 minutes on two cores; second_step_open_100.txt
 python3 second_summary.py second_step_open_100.txt
 python3 second_control.py 40 1
+python3 compare_peschmann.py /path/to/proven_fibers.csv     # his file, from his repository
 ```
 
 CI reruns the bases with `m ≤ 30`, the sieve on the first 40 open bases and the control, and, in a second job, the first step with its tests on (15,8), the exhaustion on that base, the second step on the first 30 open bases and the planted control, and compares them with the committed files.
