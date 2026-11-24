@@ -1,0 +1,411 @@
+(15,8) base (161, 240, 289): tuples 9, closed 9; rational t found: 0 infinity; closed
+(17,16) base (33, 544, 545): tuples 4, closed 4; rational t found: 0 infinity; closed
+(19,16) base (105, 608, 617): tuples 5, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(210, 19, 1234)])
+(22,1) base (483, 44, 485): tuples 6, closed 6; rational t found: 0 infinity; closed
+(22,13) base (315, 572, 653): tuples 8, closed 8; rational t found: 0 infinity; closed
+(23,22) base (45, 1012, 1013): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(5, 253, 1013), (10, 506, 2026)])
+(24,1) base (575, 48, 577): tuples 5, closed 5; rational t found: 0 infinity; closed
+(24,17) base (287, 816, 865): tuples 7, closed 7; rational t found: 0 infinity; closed
+(25,4) base (609, 200, 641): tuples 3, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1218, 1, 1282)])
+(25,14) base (429, 700, 821): tuples 4, closed 4; rational t found: 0 infinity; closed
+(26,23) base (147, 1196, 1205): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(26,25) base (51, 1300, 1301): tuples 4, closed 4; rational t found: 0 infinity; closed
+(27,2) base (725, 108, 733): tuples 6, closed 6; rational t found: 0 infinity; closed
+(27,22) base (245, 1188, 1213): tuples 4, closed 4; rational t found: 0 infinity; closed
+(28,5) base (759, 280, 809): tuples 5, closed 5; rational t found: 0 infinity; closed
+(28,27) base (55, 1512, 1513): tuples 6, closed 6; rational t found: 0 infinity; closed
+(29,18) base (517, 1044, 1165): tuples 4, closed 4; rational t found: 0 infinity; closed
+(29,24) base (265, 1392, 1417): tuples 5, closed 5; rational t found: 0 infinity; closed
+(30,11) base (779, 660, 1021): tuples 4, closed 4; rational t found: 0 infinity; closed
+(30,29) base (59, 1740, 1741): tuples 4, closed 4; rational t found: 0 infinity; closed
+(31,4) base (945, 248, 977): tuples 3, closed 3; rational t found: 0 infinity; closed
+(31,10) base (861, 620, 1061): tuples 6, closed 6; rational t found: 0 infinity; closed
+(31,30) base (61, 1860, 1861): tuples 4, closed 4; rational t found: 0 infinity; closed
+(32,7) base (975, 448, 1073): tuples 8, closed 8; rational t found: 0 infinity; closed
+(32,9) base (943, 576, 1105): tuples 9, closed 9; rational t found: 0 infinity; closed
+(32,13) base (855, 832, 1193): tuples 6, closed 6; rational t found: 0 infinity; closed
+(32,15) base (799, 960, 1249): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(799, 15, 1249), (1598, 30, 2498)])
+(32,25) base (399, 1600, 1649): tuples 11, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(399, 1, 1649), (798, 2, 3298)])
+(32,27) base (295, 1728, 1753): tuples 5, closed 5; rational t found: 0 infinity; closed
+(33,8) base (1025, 528, 1153): tuples 9, closed 9; rational t found: 0 infinity; closed
+(34,11) base (1035, 748, 1277): tuples 6, closed 6; rational t found: 0 infinity; closed
+(34,15) base (931, 1020, 1381): tuples 6, closed 6; rational t found: 0 infinity; closed
+(34,21) base (715, 1428, 1597): tuples 4, closed 4; rational t found: 0 infinity; closed
+(35,2) base (1221, 140, 1229): tuples 6, closed 6; rational t found: 0 infinity; closed
+(35,4) base (1209, 280, 1241): tuples 7, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 5, 2)])
+(35,22) base (741, 1540, 1709): tuples 8, closed 8; rational t found: 0 infinity; closed
+(36,17) base (1007, 1224, 1585): tuples 4, closed 4; rational t found: 0 infinity; closed
+(37,28) base (585, 2072, 2153): tuples 7, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 4306)])
+(38,23) base (915, 1748, 1973): tuples 4, closed 4; rational t found: 0 infinity; closed
+(38,25) base (819, 1900, 2069): tuples 4, closed 4; rational t found: 0 infinity; closed
+(38,27) base (715, 2052, 2173): tuples 12, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(55, 1, 1), (110, 2, 2)])
+(38,29) base (603, 2204, 2285): tuples 8, closed 8; rational t found: 0 infinity; closed
+(38,35) base (219, 2660, 2669): tuples 6, closed 6; rational t found: 0 infinity; closed
+(39,20) base (1121, 1560, 1921): tuples 18, closed 18; rational t found: 0 infinity; closed
+(39,28) base (737, 2184, 2305): tuples 20, closed 20; rational t found: 0 infinity; closed
+(40,1) base (1599, 80, 1601): tuples 6, closed 6; rational t found: 0 infinity; closed
+(40,11) base (1479, 880, 1721): tuples 7, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(1479, 55, 1721), (2958, 110, 3442)])
+(40,17) base (1311, 1360, 1889): tuples 12, closed 12; rational t found: 0 infinity; closed
+(40,23) base (1071, 1840, 2129): tuples 7, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 4258)])
+(40,33) base (511, 2640, 2689): tuples 13, closed 12; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 5378)])
+(41,18) base (1357, 1476, 2005): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1357, 41, 2005), (2714, 82, 4010)])
+(41,40) base (81, 3280, 3281): tuples 9, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 6562), (2, 2, 2), (2, 205, 6562)])
+(42,13) base (1595, 1092, 1933): tuples 8, closed 8; rational t found: 0 infinity; closed
+(42,23) base (1235, 1932, 2293): tuples 6, closed 6; rational t found: 0 infinity; closed
+(42,29) base (923, 2436, 2605): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(923, 609, 2605), (1846, 1218, 5210)])
+(42,41) base (83, 3444, 3445): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(43,8) base (1785, 688, 1913): tuples 10, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(1785, 1, 1), (3570, 2, 2)])
+(43,10) base (1749, 860, 1949): tuples 6, closed 6; rational t found: 0 infinity; closed
+(43,36) base (553, 3096, 3145): tuples 4, closed 4; rational t found: 0 infinity; closed
+(43,42) base (85, 3612, 3613): tuples 4, closed 4; rational t found: 0 infinity; closed
+(44,17) base (1647, 1496, 2225): tuples 4, closed 4; rational t found: 0 infinity; closed
+(44,27) base (1207, 2376, 2665): tuples 6, closed 6; rational t found: 0 infinity; closed
+(44,29) base (1095, 2552, 2777): tuples 4, closed 4; rational t found: 0 infinity; closed
+(44,35) base (711, 3080, 3161): tuples 6, closed 6; rational t found: 0 infinity; closed
+(44,37) base (567, 3256, 3305): tuples 7, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(7, 11, 3305)])
+(44,39) base (415, 3432, 3457): tuples 9, closed 9; rational t found: 0 infinity; closed
+(46,43) base (267, 3956, 3965): tuples 6, closed 6; rational t found: 0 infinity; closed
+(47,4) base (2193, 376, 2225): tuples 9, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(4386, 47, 178)])
+(47,10) base (2109, 940, 2309): tuples 4, closed 4; rational t found: 0 infinity; closed
+(47,18) base (1885, 1692, 2533): tuples 6, closed 6; rational t found: 0 infinity; closed
+(47,28) base (1425, 2632, 2993): tuples 10, closed 10; rational t found: 0 infinity; closed
+(47,38) base (765, 3572, 3653): tuples 8, closed 8; rational t found: 0 infinity; closed
+(47,46) base (93, 4324, 4325): tuples 10, closed 10; rational t found: 0 infinity; closed
+(48,17) base (2015, 1632, 2593): tuples 9, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(4030, 51, 5186)])
+(48,25) base (1679, 2400, 2929): tuples 4, closed 1; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 5858), (2, 2, 2)])
+(48,29) base (1463, 2784, 3145): tuples 10, closed 10; rational t found: 0 infinity; closed
+(48,31) base (1343, 2976, 3265): tuples 4, closed 4; rational t found: 0 infinity; closed
+(48,37) base (935, 3552, 3673): tuples 8, closed 8; rational t found: 0 infinity; closed
+(48,41) base (623, 3936, 3985): tuples 4, closed 1; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (1246, 123, 7970)])
+(48,47) base (95, 4512, 4513): tuples 8, closed 8; rational t found: 0 infinity; closed
+(49,30) base (1501, 2940, 3301): tuples 20, closed 20; rational t found: 0 infinity; closed
+(49,40) base (801, 3920, 4001): tuples 8, closed 8; rational t found: 0 infinity; closed
+(49,48) base (97, 4704, 4705): tuples 4, closed 4; rational t found: 0 infinity; closed
+(50,29) base (1659, 2900, 3341): tuples 4, closed 4; rational t found: 0 infinity; closed
+(51,16) base (2345, 1632, 2857): tuples 4, closed 4; rational t found: 0 infinity; closed
+(51,26) base (1925, 2652, 3277): tuples 4, closed 4; rational t found: 0 infinity; closed
+(51,28) base (1817, 2856, 3385): tuples 4, closed 4; rational t found: 0 infinity; closed
+(51,32) base (1577, 3264, 3625): tuples 19, closed 19; rational t found: 0 infinity; closed
+(51,40) base (1001, 4080, 4201): tuples 9, closed 9; rational t found: 0 infinity; closed
+(52,5) base (2679, 520, 2729): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2679, 65, 1)])
+(52,9) base (2623, 936, 2785): tuples 4, closed 4; rational t found: 0 infinity; closed
+(52,17) base (2415, 1768, 2993): tuples 8, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(2415, 221, 1)])
+(52,21) base (2263, 2184, 3145): tuples 9, closed 9; rational t found: 0 infinity; closed
+(52,25) base (2079, 2600, 3329): tuples 9, closed 9; rational t found: 0 infinity; closed
+(52,35) base (1479, 3640, 3929): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (1479, 1, 1)])
+(52,41) base (1023, 4264, 4385): tuples 5, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1)])
+(52,49) base (303, 5096, 5105): tuples 5, closed 5; rational t found: 0 infinity; closed
+(52,51) base (103, 5304, 5305): tuples 4, closed 4; rational t found: 0 infinity; closed
+(53,8) base (2745, 848, 2873): tuples 20, closed 16; rational t found: 0 infinity; open (tuples without a curve: [(1, 53, 17), (2, 106, 34), (15, 53, 17), (30, 106, 34)])
+(53,12) base (2665, 1272, 2953): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(5330, 159, 5906)])
+(53,30) base (1909, 3180, 3709): tuples 6, closed 6; rational t found: 0 infinity; closed
+(53,36) base (1513, 3816, 4105): tuples 3, closed 3; rational t found: 0 infinity; closed
+(53,52) base (105, 5512, 5513): tuples 4, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(1, 689, 1)])
+(55,8) base (2961, 880, 3089): tuples 8, closed 8; rational t found: 0 infinity; closed
+(55,24) base (2449, 2640, 3601): tuples 9, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(2449, 165, 3601), (4898, 330, 7202)])
+(55,28) base (2241, 3080, 3809): tuples 10, closed 10; rational t found: 0 infinity; closed
+(55,52) base (321, 5720, 5729): tuples 30, closed 29; rational t found: 0 infinity; open (tuples without a curve: [(642, 715, 11458)])
+(56,9) base (3055, 1008, 3217): tuples 12, closed 12; rational t found: 0 infinity; closed
+(56,11) base (3015, 1232, 3257): tuples 7, closed 7; rational t found: 0 infinity; closed
+(56,41) base (1455, 4592, 4817): tuples 8, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 9634), (2, 2, 2)])
+(56,43) base (1287, 4816, 4985): tuples 11, closed 11; rational t found: 0 infinity; closed
+(56,51) base (535, 5712, 5737): tuples 9, closed 9; rational t found: 0 infinity; closed
+(57,14) base (3053, 1596, 3445): tuples 22, closed 20; rational t found: 0 infinity; open (tuples without a curve: [(3053, 399, 3445), (6106, 798, 6890)])
+(57,56) base (113, 6384, 6385): tuples 7, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 12770)])
+(58,7) base (3315, 812, 3413): tuples 12, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (65, 1, 1), (130, 2, 2)])
+(58,9) base (3283, 1044, 3445): tuples 8, closed 8; rational t found: 0 infinity; closed
+(58,11) base (3243, 1276, 3485): tuples 8, closed 8; rational t found: 0 infinity; closed
+(58,37) base (1995, 4292, 4733): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1995, 1073, 4733), (3990, 2146, 9466)])
+(58,41) base (1683, 4756, 5045): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(187, 1189, 5045), (374, 2378, 10090)])
+(59,22) base (2997, 2596, 3965): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(37, 649, 3965), (74, 1298, 7930)])
+(59,24) base (2905, 2832, 4057): tuples 9, closed 9; rational t found: 0 infinity; closed
+(59,28) base (2697, 3304, 4265): tuples 4, closed 4; rational t found: 0 infinity; closed
+(59,36) base (2185, 4248, 4777): tuples 4, closed 4; rational t found: 0 infinity; closed
+(59,44) base (1545, 5192, 5417): tuples 12, closed 12; rational t found: 0 infinity; closed
+(59,56) base (345, 6608, 6617): tuples 8, closed 8; rational t found: 0 infinity; closed
+(60,1) base (3599, 120, 3601): tuples 5, closed 5; rational t found: 0 infinity; closed
+(60,49) base (1199, 5880, 6001): tuples 9, closed 9; rational t found: 0 infinity; closed
+(61,12) base (3577, 1464, 3865): tuples 4, closed 4; rational t found: 0 infinity; closed
+(61,14) base (3525, 1708, 3917): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(61,32) base (2697, 3904, 4745): tuples 5, closed 5; rational t found: 0 infinity; closed
+(61,38) base (2277, 4636, 5165): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(253, 1159, 5165), (506, 2318, 10330)])
+(61,40) base (2121, 4880, 5321): tuples 8, closed 8; rational t found: 0 infinity; closed
+(61,54) base (805, 6588, 6637): tuples 4, closed 4; rational t found: 0 infinity; closed
+(61,56) base (585, 6832, 6857): tuples 13, closed 11; rational t found: 0 infinity; open (tuples without a curve: [(65, 427, 6857), (130, 854, 13714)])
+(61,58) base (357, 7076, 7085): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(357, 1769, 7085), (714, 3538, 14170)])
+(61,60) base (121, 7320, 7321): tuples 12, closed 11; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 14642)])
+(62,1) base (3843, 124, 3845): tuples 8, closed 8; rational t found: 0 infinity; closed
+(62,13) base (3675, 1612, 4013): tuples 4, closed 4; rational t found: 0 infinity; closed
+(62,17) base (3555, 2108, 4133): tuples 6, closed 6; rational t found: 0 infinity; closed
+(62,53) base (1035, 6572, 6653): tuples 4, closed 4; rational t found: 0 infinity; closed
+(62,55) base (819, 6820, 6869): tuples 12, closed 12; rational t found: 0 infinity; closed
+(62,61) base (123, 7564, 7565): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(123, 61, 5), (246, 122, 10)])
+(63,8) base (3905, 1008, 4033): tuples 5, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(63,10) base (3869, 1260, 4069): tuples 8, closed 8; rational t found: 0 infinity; closed
+(63,20) base (3569, 2520, 4369): tuples 16, closed 13; rational t found: 0 infinity; open (tuples without a curve: [(1, 21, 4369), (7138, 35, 2), (7138, 35, 8738)])
+(63,22) base (3485, 2772, 4453): tuples 4, closed 4; rational t found: 0 infinity; closed
+(63,38) base (2525, 4788, 5413): tuples 6, closed 6; rational t found: 0 infinity; closed
+(63,40) base (2369, 5040, 5569): tuples 24, closed 18; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (1, 35, 5569), (2, 2, 2), (2, 70, 11138)])
+(63,52) base (1265, 6552, 6673): tuples 10, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(2530, 91, 13346)])
+(64,7) base (4047, 896, 4145): tuples 4, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(8094, 7, 8290)])
+(64,17) base (3807, 2176, 4385): tuples 12, closed 12; rational t found: 0 infinity; closed
+(64,27) base (3367, 3456, 4825): tuples 8, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(6734, 3, 386)])
+(64,33) base (3007, 4224, 5185): tuples 4, closed 4; rational t found: 0 infinity; closed
+(64,39) base (2575, 4992, 5617): tuples 9, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 11234)])
+(64,49) base (1695, 6272, 6497): tuples 5, closed 1; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 12994), (2, 2, 2), (3390, 1, 12994)])
+(64,55) base (1071, 7040, 7121): tuples 12, closed 12; rational t found: 0 infinity; closed
+(65,6) base (4189, 780, 4261): tuples 10, closed 10; rational t found: 0 infinity; closed
+(65,12) base (4081, 1560, 4369): tuples 8, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(8162, 1, 8738)])
+(65,24) base (3649, 3120, 4801): tuples 24, closed 20; rational t found: 0 infinity; open (tuples without a curve: [(1, 195, 4801), (2, 390, 9602), (3649, 195, 4801), (7298, 390, 9602)])
+(65,28) base (3441, 3640, 5009): tuples 7, closed 7; rational t found: 0 infinity; closed
+(65,32) base (3201, 4160, 5249): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 10498)])
+(65,34) base (3069, 4420, 5381): tuples 12, closed 12; rational t found: 0 infinity; closed
+(65,38) base (2781, 4940, 5669): tuples 4, closed 4; rational t found: 0 infinity; closed
+(65,42) base (2461, 5460, 5989): tuples 10, closed 10; rational t found: 0 infinity; closed
+(65,48) base (1921, 6240, 6529): tuples 16, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(1, 195, 1), (2, 1, 13058), (2, 195, 2), (2, 390, 2)])
+(65,54) base (1309, 7020, 7141): tuples 8, closed 8; rational t found: 0 infinity; closed
+(65,58) base (861, 7540, 7589): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(65,62) base (381, 8060, 8069): tuples 8, closed 8; rational t found: 0 infinity; closed
+(66,29) base (3515, 3828, 5197): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(3515, 957, 5197), (7030, 1914, 10394)])
+(67,12) base (4345, 1608, 4633): tuples 5, closed 5; rational t found: 0 infinity; closed
+(67,20) base (4089, 2680, 4889): tuples 6, closed 6; rational t found: 0 infinity; closed
+(67,40) base (2889, 5360, 6089): tuples 7, closed 7; rational t found: 0 infinity; closed
+(67,44) base (2553, 5896, 6425): tuples 9, closed 9; rational t found: 0 infinity; closed
+(67,48) base (2185, 6432, 6793): tuples 6, closed 6; rational t found: 0 infinity; closed
+(67,56) base (1353, 7504, 7625): tuples 9, closed 9; rational t found: 0 infinity; closed
+(67,66) base (133, 8844, 8845): tuples 30, closed 28; rational t found: 0 infinity; open (tuples without a curve: [(133, 2211, 5), (266, 4422, 10)])
+(68,7) base (4575, 952, 4673): tuples 5, closed 5; rational t found: 0 infinity; closed
+(68,23) base (4095, 3128, 5153): tuples 10, closed 10; rational t found: 0 infinity; closed
+(68,43) base (2775, 5848, 6473): tuples 4, closed 4; rational t found: 0 infinity; closed
+(68,61) base (903, 8296, 8345): tuples 5, closed 5; rational t found: 0 infinity; closed
+(68,67) base (135, 9112, 9113): tuples 5, closed 5; rational t found: 0 infinity; closed
+(69,8) base (4697, 1104, 4825): tuples 9, closed 9; rational t found: 0 infinity; closed
+(69,16) base (4505, 2208, 5017): tuples 13, closed 12; rational t found: 0 infinity; open (tuples without a curve: [(9010, 69, 10034)])
+(69,22) base (4277, 3036, 5245): tuples 16, closed 16; rational t found: 0 infinity; closed
+(69,38) base (3317, 5244, 6205): tuples 10, closed 10; rational t found: 0 infinity; closed
+(70,19) base (4539, 2660, 5261): tuples 4, closed 4; rational t found: 0 infinity; closed
+(70,31) base (3939, 4340, 5861): tuples 4, closed 4; rational t found: 0 infinity; closed
+(70,43) base (3051, 6020, 6749): tuples 4, closed 4; rational t found: 0 infinity; closed
+(71,8) base (4977, 1136, 5105): tuples 10, closed 10; rational t found: 0 infinity; closed
+(71,12) base (4897, 1704, 5185): tuples 3, closed 3; rational t found: 0 infinity; closed
+(71,44) base (3105, 6248, 6977): tuples 10, closed 10; rational t found: 0 infinity; closed
+(71,46) base (2925, 6532, 7157): tuples 6, closed 6; rational t found: 0 infinity; closed
+(71,60) base (1441, 8520, 8641): tuples 8, closed 8; rational t found: 0 infinity; closed
+(71,64) base (945, 9088, 9137): tuples 4, closed 4; rational t found: 0 infinity; closed
+(72,7) base (5135, 1008, 5233): tuples 14, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(1, 7, 5233), (2, 14, 10466), (5135, 7, 5233), (10270, 14, 10466)])
+(72,23) base (4655, 3312, 5713): tuples 18, closed 16; rational t found: 0 infinity; open (tuples without a curve: [(95, 23, 5713), (190, 46, 11426)])
+(72,25) base (4559, 3600, 5809): tuples 5, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(4559, 1, 5809), (9118, 2, 11618)])
+(72,29) base (4343, 4176, 6025): tuples 7, closed 7; rational t found: 0 infinity; closed
+(72,37) base (3815, 5328, 6553): tuples 5, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(3815, 37, 6553), (7630, 74, 13106)])
+(72,41) base (3503, 5904, 6865): tuples 5, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 13730)])
+(72,43) base (3335, 6192, 7033): tuples 7, closed 7; rational t found: 0 infinity; closed
+(72,61) base (1463, 8784, 8905): tuples 5, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 17810), (2, 2, 2)])
+(73,4) base (5313, 584, 5345): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(10626, 73, 10690)])
+(73,14) base (5133, 2044, 5525): tuples 6, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (5133, 511, 221), (10266, 1022, 442)])
+(73,16) base (5073, 2336, 5585): tuples 6, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 11170), (2, 2, 2)])
+(73,24) base (4753, 3504, 5905): tuples 11, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 11810), (194, 3, 11810)])
+(73,32) base (4305, 4672, 6353): tuples 13, closed 13; rational t found: 0 infinity; closed
+(73,38) base (3885, 5548, 6773): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(3885, 1387, 6773), (7770, 2774, 13546)])
+(73,40) base (3729, 5840, 6929): tuples 8, closed 8; rational t found: 0 infinity; closed
+(73,48) base (3025, 7008, 7633): tuples 4, closed 4; rational t found: 0 infinity; closed
+(73,50) base (2829, 7300, 7829): tuples 8, closed 8; rational t found: 0 infinity; closed
+(73,52) base (2625, 7592, 8033): tuples 3, closed 3; rational t found: 0 infinity; closed
+(73,60) base (1729, 8760, 8929): tuples 6, closed 6; rational t found: 0 infinity; closed
+(73,64) base (1233, 9344, 9425): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(74,3) base (5467, 444, 5485): tuples 8, closed 8; rational t found: 0 infinity; closed
+(74,11) base (5355, 1628, 5597): tuples 12, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (595, 407, 5597), (1190, 814, 11194)])
+(74,13) base (5307, 1924, 5645): tuples 6, closed 6; rational t found: 0 infinity; closed
+(75,44) base (3689, 6600, 7561): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 15122), (7378, 33, 15122)])
+(75,62) base (1781, 9300, 9469): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(75,74) base (149, 11100, 11101): tuples 8, closed 8; rational t found: 0 infinity; closed
+(76,27) base (5047, 4104, 6505): tuples 4, closed 4; rational t found: 0 infinity; closed
+(76,29) base (4935, 4408, 6617): tuples 4, closed 4; rational t found: 0 infinity; closed
+(76,43) base (3927, 6536, 7625): tuples 10, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(2, 19, 2)])
+(76,59) base (2295, 8968, 9257): tuples 10, closed 10; rational t found: 0 infinity; closed
+(76,65) base (1551, 9880, 10001): tuples 36, closed 34; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 10001), (3102, 13, 2)])
+(76,69) base (1015, 10488, 10537): tuples 11, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(7, 19, 41)])
+(76,71) base (735, 10792, 10817): tuples 5, closed 5; rational t found: 0 infinity; closed
+(77,10) base (5829, 1540, 6029): tuples 6, closed 6; rational t found: 0 infinity; closed
+(77,20) base (5529, 3080, 6329): tuples 14, closed 14; rational t found: 0 infinity; closed
+(77,26) base (5253, 4004, 6605): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(77,54) base (3013, 8316, 8845): tuples 18, closed 16; rational t found: 0 infinity; open (tuples without a curve: [(3013, 231, 8845), (6026, 462, 17690)])
+(77,64) base (1833, 9856, 10025): tuples 7, closed 7; rational t found: 0 infinity; closed
+(77,72) base (745, 11088, 11113): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(745, 77, 11113), (1490, 154, 22226)])
+(78,7) base (6035, 1092, 6133): tuples 4, closed 4; rational t found: 0 infinity; closed
+(78,19) base (5723, 2964, 6445): tuples 6, closed 6; rational t found: 0 infinity; closed
+(78,35) base (4859, 5460, 7309): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(4859, 1365, 7309), (9718, 2730, 14618)])
+(79,12) base (6097, 1896, 6385): tuples 5, closed 5; rational t found: 0 infinity; closed
+(79,16) base (5985, 2528, 6497): tuples 33, closed 33; rational t found: 0 infinity; closed
+(79,24) base (5665, 3792, 6817): tuples 26, closed 26; rational t found: 0 infinity; closed
+(79,40) base (4641, 6320, 7841): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(9282, 395, 2)])
+(79,48) base (3937, 7584, 8545): tuples 5, closed 5; rational t found: 0 infinity; closed
+(79,54) base (3325, 8532, 9157): tuples 6, closed 6; rational t found: 0 infinity; closed
+(79,58) base (2877, 9164, 9605): tuples 8, closed 8; rational t found: 0 infinity; closed
+(79,60) base (2641, 9480, 9841): tuples 5, closed 5; rational t found: 0 infinity; closed
+(80,1) base (6399, 160, 6401): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(80,17) base (6111, 2720, 6689): tuples 8, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 13378), (2, 85, 13378), (1358, 85, 13378)])
+(80,21) base (5959, 3360, 6841): tuples 6, closed 6; rational t found: 0 infinity; closed
+(80,27) base (5671, 4320, 7129): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(11342, 15, 14258)])
+(80,33) base (5311, 5280, 7489): tuples 5, closed 1; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 14978), (2, 2, 2), (10622, 165, 2)])
+(80,41) base (4719, 6560, 8081): tuples 7, closed 7; rational t found: 0 infinity; closed
+(80,43) base (4551, 6880, 8249): tuples 5, closed 5; rational t found: 0 infinity; closed
+(80,51) base (3799, 8160, 9001): tuples 9, closed 9; rational t found: 0 infinity; closed
+(80,57) base (3151, 9120, 9649): tuples 6, closed 6; rational t found: 0 infinity; closed
+(80,67) base (1911, 10720, 10889): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 21778)])
+(80,69) base (1639, 11040, 11161): tuples 8, closed 8; rational t found: 0 infinity; closed
+(81,10) base (6461, 1620, 6661): tuples 4, closed 4; rational t found: 0 infinity; closed
+(81,20) base (6161, 3240, 6961): tuples 3, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(12322, 5, 13922)])
+(81,28) base (5777, 4536, 7345): tuples 3, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(11554, 7, 14690)])
+(81,56) base (3425, 9072, 9697): tuples 7, closed 7; rational t found: 0 infinity; closed
+(81,64) base (2465, 10368, 10657): tuples 4, closed 3; rational t found: 0 infinity; open (tuples without a curve: [(4930, 1, 21314)])
+(82,1) base (6723, 164, 6725): tuples 4, closed 4; rational t found: 0 infinity; closed
+(82,19) base (6363, 3116, 7085): tuples 4, closed 4; rational t found: 0 infinity; closed
+(82,21) base (6283, 3444, 7165): tuples 6, closed 6; rational t found: 0 infinity; closed
+(82,23) base (6195, 3772, 7253): tuples 8, closed 8; rational t found: 0 infinity; closed
+(82,47) base (4515, 7708, 8933): tuples 8, closed 8; rational t found: 0 infinity; closed
+(82,77) base (795, 12628, 12653): tuples 4, closed 4; rational t found: 0 infinity; closed
+(83,8) base (6825, 1328, 6953): tuples 15, closed 15; rational t found: 0 infinity; closed
+(83,12) base (6745, 1992, 7033): tuples 7, closed 7; rational t found: 0 infinity; closed
+(83,16) base (6633, 2656, 7145): tuples 4, closed 4; rational t found: 0 infinity; closed
+(83,18) base (6565, 2988, 7213): tuples 8, closed 8; rational t found: 0 infinity; closed
+(83,26) base (6213, 4316, 7565): tuples 4, closed 4; rational t found: 0 infinity; closed
+(83,28) base (6105, 4648, 7673): tuples 7, closed 7; rational t found: 0 infinity; closed
+(83,36) base (5593, 5976, 8185): tuples 5, closed 5; rational t found: 0 infinity; closed
+(83,48) base (4585, 7968, 9193): tuples 9, closed 9; rational t found: 0 infinity; closed
+(83,50) base (4389, 8300, 9389): tuples 16, closed 16; rational t found: 0 infinity; closed
+(83,54) base (3973, 8964, 9805): tuples 4, closed 4; rational t found: 0 infinity; closed
+(83,58) base (3525, 9628, 10253): tuples 6, closed 6; rational t found: 0 infinity; closed
+(83,66) base (2533, 10956, 11245): tuples 4, closed 4; rational t found: 0 infinity; closed
+(83,68) base (2265, 11288, 11513): tuples 9, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(4530, 1411, 23026)])
+(83,70) base (1989, 11620, 11789): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(83,72) base (1705, 11952, 12073): tuples 12, closed 12; rational t found: 0 infinity; closed
+(83,80) base (489, 13280, 13289): tuples 6, closed 6; rational t found: 0 infinity; closed
+(84,1) base (7055, 168, 7057): tuples 4, closed 4; rational t found: 0 infinity; closed
+(84,23) base (6527, 3864, 7585): tuples 7, closed 7; rational t found: 0 infinity; closed
+(84,37) base (5687, 6216, 8425): tuples 10, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(94, 777, 674)])
+(84,41) base (5375, 6888, 8737): tuples 5, closed 5; rational t found: 0 infinity; closed
+(84,47) base (4847, 7896, 9265): tuples 5, closed 5; rational t found: 0 infinity; closed
+(84,59) base (3575, 9912, 10537): tuples 10, closed 10; rational t found: 0 infinity; closed
+(84,65) base (2831, 10920, 11281): tuples 18, closed 17; rational t found: 0 infinity; open (tuples without a curve: [(5662, 1365, 22562)])
+(84,79) base (815, 13272, 13297): tuples 14, closed 14; rational t found: 0 infinity; closed
+(84,83) base (167, 13944, 13945): tuples 5, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(334, 1743, 27890)])
+(85,6) base (7189, 1020, 7261): tuples 4, closed 0; rational t found: none; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (7189, 255, 7261), (14378, 510, 14522)])
+(85,44) base (5289, 7480, 9161): tuples 5, closed 5; rational t found: 0 infinity; closed
+(85,54) base (4309, 9180, 10141): tuples 4, closed 4; rational t found: 0 infinity; closed
+(85,66) base (2869, 11220, 11581): tuples 12, closed 12; rational t found: 0 infinity; closed
+(86,3) base (7387, 516, 7405): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(7387, 129, 7405), (14774, 258, 14810)])
+(86,5) base (7371, 860, 7421): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(91, 215, 7421), (182, 430, 14842)])
+(86,7) base (7347, 1204, 7445): tuples 12, closed 12; rational t found: 0 infinity; closed
+(86,9) base (7315, 1548, 7477): tuples 6, closed 6; rational t found: 0 infinity; closed
+(86,19) base (7035, 3268, 7757): tuples 16, closed 16; rational t found: 0 infinity; closed
+(86,47) base (5187, 8084, 9605): tuples 22, closed 20; rational t found: 0 infinity; open (tuples without a curve: [(5187, 2021, 9605), (10374, 4042, 19210)])
+(86,53) base (4587, 9116, 10205): tuples 6, closed 6; rational t found: 0 infinity; closed
+(86,59) base (3915, 10148, 10877): tuples 4, closed 4; rational t found: 0 infinity; closed
+(86,61) base (3675, 10492, 11117): tuples 6, closed 6; rational t found: 0 infinity; closed
+(86,67) base (2907, 11524, 11885): tuples 4, closed 4; rational t found: 0 infinity; closed
+(87,8) base (7505, 1392, 7633): tuples 13, closed 13; rational t found: 0 infinity; closed
+(87,26) base (6893, 4524, 8245): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(6893, 1131, 8245), (13786, 2262, 16490)])
+(87,28) base (6785, 4872, 8353): tuples 19, closed 18; rational t found: 0 infinity; open (tuples without a curve: [(1, 3, 8353)])
+(87,40) base (5969, 6960, 9169): tuples 36, closed 36; rational t found: 0 infinity; closed
+(87,50) base (5069, 8700, 10069): tuples 4, closed 4; rational t found: 0 infinity; closed
+(88,7) base (7695, 1232, 7793): tuples 11, closed 11; rational t found: 0 infinity; closed
+(88,9) base (7663, 1584, 7825): tuples 9, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(7663, 11, 313), (15326, 22, 626)])
+(88,13) base (7575, 2288, 7913): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(303, 143, 7913), (606, 286, 15826)])
+(88,17) base (7455, 2992, 8033): tuples 7, closed 7; rational t found: 0 infinity; closed
+(88,25) base (7119, 4400, 8369): tuples 10, closed 10; rational t found: 0 infinity; closed
+(88,41) base (6063, 7216, 9425): tuples 9, closed 7; rational t found: 0 infinity; open (tuples without a curve: [(6063, 451, 377), (12126, 902, 754)])
+(88,43) base (5895, 7568, 9593): tuples 9, closed 9; rational t found: 0 infinity; closed
+(88,49) base (5343, 8624, 10145): tuples 5, closed 1; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (5343, 11, 10145), (10686, 22, 20290)])
+(88,53) base (4935, 9328, 10553): tuples 8, closed 8; rational t found: 0 infinity; closed
+(88,59) base (4263, 10384, 11225): tuples 5, closed 5; rational t found: 0 infinity; closed
+(88,61) base (4023, 10736, 11465): tuples 7, closed 7; rational t found: 0 infinity; closed
+(88,73) base (2415, 12848, 13073): tuples 15, closed 15; rational t found: 0 infinity; closed
+(88,83) base (855, 14608, 14633): tuples 6, closed 6; rational t found: 0 infinity; closed
+(88,85) base (519, 14960, 14969): tuples 18, closed 18; rational t found: 0 infinity; closed
+(89,4) base (7905, 712, 7937): tuples 7, closed 7; rational t found: 0 infinity; closed
+(89,14) base (7725, 2492, 8117): tuples 6, closed 6; rational t found: 0 infinity; closed
+(89,20) base (7521, 3560, 8321): tuples 6, closed 6; rational t found: 0 infinity; closed
+(89,40) base (6321, 7120, 9521): tuples 5, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 19042), (129, 445, 9521), (258, 890, 19042)])
+(89,44) base (5985, 7832, 9857): tuples 9, closed 9; rational t found: 0 infinity; closed
+(89,48) base (5617, 8544, 10225): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(89,56) base (4785, 9968, 11057): tuples 6, closed 6; rational t found: 0 infinity; closed
+(89,58) base (4557, 10324, 11285): tuples 4, closed 4; rational t found: 0 infinity; closed
+(89,60) base (4321, 10680, 11521): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 1335, 23042), (8642, 1335, 23042)])
+(89,72) base (2737, 12816, 13105): tuples 6, closed 6; rational t found: 0 infinity; closed
+(89,80) base (1521, 14240, 14321): tuples 9, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 28642), (2, 2, 2), (2, 445, 28642)])
+(90,43) base (6251, 7740, 9949): tuples 10, closed 10; rational t found: 0 infinity; closed
+(90,61) base (4379, 10980, 11821): tuples 6, closed 6; rational t found: 0 infinity; closed
+(91,12) base (8137, 2184, 8425): tuples 8, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(2, 39, 2), (16274, 3, 2)])
+(91,72) base (3097, 13104, 13465): tuples 27, closed 25; rational t found: 0 infinity; open (tuples without a curve: [(3097, 91, 13465), (6194, 182, 26930)])
+(91,74) base (2805, 13468, 13757): tuples 6, closed 6; rational t found: 0 infinity; closed
+(91,80) base (1881, 14560, 14681): tuples 12, closed 12; rational t found: 0 infinity; closed
+(91,88) base (537, 16016, 16025): tuples 30, closed 30; rational t found: 0 infinity; closed
+(92,7) base (8415, 1288, 8513): tuples 12, closed 12; rational t found: 0 infinity; closed
+(92,13) base (8295, 2392, 8633): tuples 8, closed 8; rational t found: 0 infinity; closed
+(92,17) base (8175, 3128, 8753): tuples 5, closed 5; rational t found: 0 infinity; closed
+(92,19) base (8103, 3496, 8825): tuples 6, closed 6; rational t found: 0 infinity; closed
+(92,21) base (8023, 3864, 8905): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(16046, 483, 17810)])
+(92,39) base (6943, 7176, 9985): tuples 5, closed 5; rational t found: 0 infinity; closed
+(92,41) base (6783, 7544, 10145): tuples 6, closed 6; rational t found: 0 infinity; closed
+(92,47) base (6255, 8648, 10673): tuples 9, closed 9; rational t found: 0 infinity; closed
+(92,77) base (2535, 14168, 14393): tuples 11, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1)])
+(92,83) base (1575, 15272, 15353): tuples 6, closed 6; rational t found: 0 infinity; closed
+(92,85) base (1239, 15640, 15689): tuples 12, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(1239, 1, 1), (1239, 1, 15689)])
+(93,22) base (8165, 4092, 9133): tuples 6, closed 6; rational t found: 0 infinity; closed
+(93,44) base (6713, 8184, 10585): tuples 9, closed 6; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 1, 21170), (274, 1023, 21170)])
+(94,5) base (8811, 940, 8861): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(94,7) base (8787, 1316, 8885): tuples 8, closed 8; rational t found: 0 infinity; closed
+(94,25) base (8211, 4700, 9461): tuples 6, closed 6; rational t found: 0 infinity; closed
+(94,29) base (7995, 5452, 9677): tuples 4, closed 4; rational t found: 0 infinity; closed
+(94,35) base (7611, 6580, 10061): tuples 6, closed 6; rational t found: 0 infinity; closed
+(94,37) base (7467, 6956, 10205): tuples 4, closed 4; rational t found: 0 infinity; closed
+(94,51) base (6235, 9588, 11437): tuples 4, closed 4; rational t found: 0 infinity; closed
+(94,59) base (5355, 11092, 12317): tuples 22, closed 20; rational t found: 0 infinity; open (tuples without a curve: [(595, 2773, 12317), (1190, 5546, 24634)])
+(94,71) base (3795, 13348, 13877): tuples 10, closed 10; rational t found: 0 infinity; closed
+(94,77) base (2907, 14476, 14765): tuples 16, closed 16; rational t found: 0 infinity; closed
+(94,85) base (1611, 15980, 16061): tuples 16, closed 16; rational t found: 0 infinity; closed
+(94,89) base (915, 16732, 16757): tuples 6, closed 4; rational t found: 0 infinity; open (tuples without a curve: [(183, 1, 1), (366, 2, 2)])
+(94,91) base (555, 17108, 17117): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(555, 4277, 17117), (1110, 8554, 34234)])
+(94,93) base (187, 17484, 17485): tuples 4, closed 4; rational t found: 0 infinity; closed
+(95,12) base (8881, 2280, 9169): tuples 23, closed 23; rational t found: 0 infinity; closed
+(95,18) base (8701, 3420, 9349): tuples 4, closed 4; rational t found: 0 infinity; closed
+(95,26) base (8349, 4940, 9701): tuples 4, closed 4; rational t found: 0 infinity; closed
+(95,72) base (3841, 13680, 14209): tuples 20, closed 18; rational t found: 0 infinity; open (tuples without a curve: [(3841, 95, 14209), (7682, 190, 28418)])
+(96,7) base (9167, 1344, 9265): tuples 11, closed 9; rational t found: 0 infinity; open (tuples without a curve: [(9167, 21, 9265), (18334, 42, 18530)])
+(96,11) base (9095, 2112, 9337): tuples 18, closed 18; rational t found: 0 infinity; closed
+(96,23) base (8687, 4416, 9745): tuples 5, closed 5; rational t found: 0 infinity; closed
+(96,31) base (8255, 5952, 10177): tuples 14, closed 14; rational t found: 0 infinity; closed
+(96,37) base (7847, 7104, 10585): tuples 13, closed 13; rational t found: 0 infinity; closed
+(96,47) base (7007, 9024, 11425): tuples 7, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(96,49) base (6815, 9408, 11617): tuples 12, closed 8; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2), (6815, 3, 11617), (13630, 6, 23234)])
+(96,65) base (4991, 12480, 13441): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(96,73) base (3887, 14016, 14545): tuples 6, closed 6; rational t found: 0 infinity; closed
+(96,89) base (1295, 17088, 17137): tuples 5, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 34274), (1295, 267, 17137), (2590, 534, 34274)])
+(97,8) base (9345, 1552, 9473): tuples 5, closed 5; rational t found: 0 infinity; closed
+(97,20) base (9009, 3880, 9809): tuples 12, closed 11; rational t found: 0 infinity; open (tuples without a curve: [(2, 485, 19618)])
+(97,24) base (8833, 4656, 9985): tuples 7, closed 7; rational t found: 0 infinity; closed
+(97,34) base (8253, 6596, 10565): tuples 12, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(1, 1649, 1), (2, 3298, 2)])
+(97,40) base (7809, 7760, 11009): tuples 6, closed 6; rational t found: 0 infinity; closed
+(97,44) base (7473, 8536, 11345): tuples 4, closed 4; rational t found: 0 infinity; closed
+(97,66) base (5053, 12804, 13765): tuples 8, closed 8; rational t found: 0 infinity; closed
+(97,68) base (4785, 13192, 14033): tuples 24, closed 24; rational t found: 0 infinity; closed
+(97,80) base (3009, 15520, 15809): tuples 16, closed 15; rational t found: 0 infinity; open (tuples without a curve: [(2, 485, 31618)])
+(97,96) base (193, 18624, 18625): tuples 5, closed 5; rational t found: 0 infinity; closed
+(98,9) base (9523, 1764, 9685): tuples 8, closed 8; rational t found: 0 infinity; closed
+(98,13) base (9435, 2548, 9773): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(9435, 13, 9773), (18870, 26, 19546)])
+(98,41) base (7923, 8036, 11285): tuples 10, closed 10; rational t found: 0 infinity; closed
+(98,47) base (7395, 9212, 11813): tuples 20, closed 20; rational t found: 0 infinity; closed
+(98,51) base (7003, 9996, 12205): tuples 4, closed 4; rational t found: 0 infinity; closed
+(98,53) base (6795, 10388, 12413): tuples 6, closed 6; rational t found: 0 infinity; closed
+(98,81) base (3043, 15876, 16165): tuples 6, closed 6; rational t found: 0 infinity; closed
+(99,14) base (9605, 2772, 9997): tuples 16, closed 14; rational t found: 0 infinity; open (tuples without a curve: [(113, 1, 1), (226, 2, 2)])
+(99,28) base (9017, 5544, 10585): tuples 20, closed 20; rational t found: 0 infinity; closed
+(99,56) base (6665, 11088, 12937): tuples 16, closed 10; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 761), (2, 2, 1522), (31, 1, 1), (62, 2, 2)])
+(99,68) base (5177, 13464, 14425): tuples 16, closed 13; rational t found: 0 infinity; open (tuples without a curve: [(1, 3, 577), (2, 561, 1154), (5177, 3, 577)])
+(99,70) base (4901, 13860, 14701): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(1, 1, 1), (2, 2, 2)])
+(100,39) base (8479, 7800, 11521): tuples 6, closed 5; rational t found: 0 infinity; open (tuples without a curve: [(16958, 5, 23042)])
+(100,49) base (7599, 9800, 12401): tuples 3, closed 3; rational t found: 0 infinity; closed
+(100,59) base (6519, 11800, 13481): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(2, 1, 26962), (13038, 59, 26962)])
+(100,63) base (6031, 12600, 13969): tuples 10, closed 10; rational t found: 0 infinity; closed
+(100,67) base (5511, 13400, 14489): tuples 4, closed 2; rational t found: 0 infinity; open (tuples without a curve: [(11022, 1, 28978), (11022, 67, 28978)])
+(100,89) base (2079, 17800, 17921): tuples 7, closed 7; rational t found: 0 infinity; closed

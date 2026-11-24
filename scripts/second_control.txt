@@ -1,0 +1,2 @@
+40 planted triples, 480 curves; with a rank equal to 0 and an equation that is not an identity: 0; the planted t is among the candidates: 0; missing: 0; identities: 0
+with a wrong class, curves with a rank equal to 0: 3 D: 224 of 480, 5 D: 224 of 480, 7 D: 222 of 480

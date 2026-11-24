@@ -1,0 +1,7 @@
+cuboid (15,8): classes for each form: [8, 8, 4]; tuples: 256
+classes of the known points: [(1, 1, 1), (322, 30, 2)]
+tuples left: 9: [(1, 1, 1), (1, 5, 1), (2, 1, 2), (2, 2, 2), (2, 5, 2), (2, 10, 2), (161, 15, 1), (322, 1, 2), (322, 30, 2)]
+more than the known points
+cuboid (15,8): random points at the primes [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 53]: 33429 at which every form has the class of a rational number; outside the allowed set: 0
+cuboid (15,8): points near the zeros of the forms and near infinity, at the primes [2, 5, 13, 17, 29, 37, 41, 53, 61]: 9342 tested; outside the allowed set: 0
+cuboid (15,8): local classes against a list of all squares modulo 2^6, 3^4, 5^3, 7^3, 13^2: 25824 values of forms tested; disagreements: 0

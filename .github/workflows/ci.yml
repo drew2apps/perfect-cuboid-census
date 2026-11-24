@@ -25,3 +25,27 @@ jobs:
           python3 summary.py | diff - summary_100.txt
           python3 open_sieve.py base_census_100.jsonl 1000000 0 40 | grep '^{' | diff - <(head -n 40 open_sieve_100.jsonl)
           python3 open_sieve.py --control 11,2 100000 | grep '^condition' | diff - open_sieve_control.txt
+  second-step:
+    # The descent in two steps (experiment): the first step and its tests, the exhaustion on one base, the second step on the first
+    # 30 open bases, and the control with planted points.  Compared with the committed files.
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: first step, tests, second step on 30 bases, control
+        shell: bash
+        run: |
+          set -e -o pipefail
+          pip install -q -r requirements-second.txt
+          cd scripts
+          python3 -m py_compile tuple_descent.py tuple_bruteforce.py second_step.py second_control.py second_summary.py
+          f() { grep -v "PARI stack" || true; }
+          (python3 tuple_descent.py cuboid 15,8; python3 tuple_descent.py cuboid 15,8 selftest; python3 tuple_descent.py cuboid 15,8 neartest; python3 tuple_descent.py cuboid 15,8 oracle) | diff - first_step_15_8.txt
+          python3 tuple_bruteforce.py cuboid 15,8 | diff - bruteforce_15_8.txt
+          python3 second_step.py $(tr ' ' '\n' < open_bases_100.txt | head -n 30 | tr '\n' ' ') 2>/dev/null | f | diff - <(head -n 30 second_step_open_100.txt)
+          python3 second_summary.py second_step_open_100.txt | diff - second_step_summary.txt
+          python3 second_control.py 40 1 2>/dev/null | f | diff - second_control.txt
+          grep -q "missing: 0;" second_control.txt

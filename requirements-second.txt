@@ -1,0 +1,6 @@
+# Python packages for scripts/second_step.py and scripts/second_control.py (CI job second-step). cypari2 2.2.9 contains PARI 2.17.4.
+passagemath-schemes==10.8.14
+passagemath-singular==10.8.14
+passagemath-symbolics==10.8.14
+cypari2==2.2.9
+sympy==1.14.0

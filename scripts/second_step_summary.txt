@@ -1,0 +1,6 @@
+bases: 411
+closed by the second step (every tuple of the first step is closed, no solution): 274
+still open (some tuple has no curve with a rank equal to 0): 137; the first: (19,16) (23,22) (25,4) (26,23) (32,15) (32,25)
+with a solution: 0
+tuples left by the first step: 3427; closed: 3145
+rational t found on the curves: 0 infinity none
